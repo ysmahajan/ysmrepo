@@ -1,0 +1,2723 @@
+ECO | 89497 | 1 | Brooks, Christopher |  | Implement
+ECO | 89497 | 1 | Foster, Rotha |  | Implement
+ECO | 89497 | 1 | Foster, Rotha | In Process | Accept
+ECO | 89497 | 1 | Larose, Corey |  | Implement
+ECO | 89497 | 1 | Lennon, Craig |  | Implement
+ECO | 89497 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89497 | 1 | McCreery, Lindsay |  | Implement
+ECO | 89497 | 1 | McCumons, Jessica |  | Implement
+ECO | 88584 | 1 | Larose, Corey | Approved | Accept
+ECO | 88584 | 1 | Schmidt, Kevin | In Process | Accept
+ECO | 88584 | 1 | Lindemann, Mary |  | Implement
+ECO | 88584 | 1 | Larose, Corey |  | Implement
+ECO | 88584 | 1 | Dalen, Katie |  | Implement
+ECO | 88584 | 1 | Kumpula, Robert |  | Implement
+ECO | 88584 | 1 | Foster, Rotha | In Process | Accept
+ECO | 89207 | 1 | Holly, Herman |  | Implement
+ECO | 89207 | 1 | Holly, Herman | Approved | Accept
+ECO | 89207 | 1 | Danowski, Tom |  | Implement
+ECO | 89207 | 1 | Lindemann, Mary |  | Implement
+ECO | 89207 | 1 | Nakamura, Yusaku | Approved | Accept
+ECO | 89207 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89207 | 1 | Ormsby, David J. |  | Implement
+ECO | 89207 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 89207 | 1 | Wesoloski, Mary |  | Implement
+ECO | 89207 | 1 | Toole, Michael |  | Implement
+ECO | 89207 | 1 | Cruz, Ignacio |  | Implement
+ECO | 89207 | 1 | Holly, Yvette | Approved | Accept
+ECO | 89207 | 1 | Dalen, Katie |  | Implement
+ECO | 89207 | 1 | Churchman, Jeremy |  | Implement
+ECO | 89207 | 1 | Thomas, Mary |  | Implement
+ECO | 89207 | 1 | Brown, Terri |  | Implement
+ECO | 89207 | 1 | Brown, Terri | Approved | Accept
+ECO | 89207 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89207 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 89207 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 89207 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 89207 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 89207 | 1 | Hallanger, Daniel |  | Implement
+ECO | 89652 | 1 | Richmond, Jason | Approved | Accept
+ECO | 89652 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89652 | 1 | Larose, Corey |  | Implement
+ECO | 89652 | 1 | Richmond, Jason |  | Implement
+ECO | 89652 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89652 | 1 | McCreery, Lindsay |  | Implement
+ECO | 89652 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 89652 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89652 | 1 | Hutchons, Kennis |  | Implement
+ECO | 89652 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89652 | 1 | Brown, Terri | Approved | Accept
+ECO | 89652 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89652 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89652 | 1 | Klear, Brian |  | Implement
+ECO | 87938 | 1 | Barsoum, Laura |  | Implement
+ECO | 87938 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 87938 | 1 | Dalen, Katie |  | Implement
+ECO | 87938 | 1 | Danowski, Tom |  | Implement
+ECO | 87938 | 1 | Larose, Corey |  | Implement
+ECO | 87938 | 1 | Mahoney, David E. |  | Implement
+ECO | 87938 | 1 | Potts, Nancy |  | Implement
+ECO | 87938 | 1 | Potts, Nancy | In Process | Accept
+ECO | 87938 | 1 | Foster, Rotha |  | Implement
+ECO | 87938 | 1 | Foster, Rotha | Approved | Accept
+ECO | 87938 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 87938 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 87938 | 1 | Kerr, Kevin |  | Implement
+ECO | 87938 | 1 | McCumons, Jessica |  | Implement
+ECO | 89917 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 89917 | 1 | Haas, Tim | Approved | Accept
+ECO | 89917 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89917 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89917 | 1 | Wesoloski, Mary |  | Implement
+ECO | 89917 | 1 | Dalen, Katie |  | Implement
+ECO | 89917 | 1 | Klear, Brian |  | Implement
+ECO | 89917 | 1 | Churchman, Jeremy |  | Implement
+ECO | 89917 | 1 | Brown, Terri | Approved | Accept
+ECO | 89917 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89917 | 1 | Hutchons, Kennis |  | Implement
+ECO | 89917 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 89917 | 1 | Sayer, John | Approved | Accept
+ECO | 89917 | 1 | Larose, Corey |  | Implement
+ECO | 89917 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89917 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 87701 | 1 | Pulley, Megan | Approved | Accept
+ECO | 87701 | 1 | Pulley, Megan |  | Implement
+ECO | 87701 | 1 | Brown, Amy | Approved | Accept
+ECO | 87701 | 1 | Eskuri, Janie | Approved | Accept
+ECO | 87701 | 1 | Danowski, Tom |  | Implement
+ECO | 87701 | 1 | Lindemann, Mary |  | Implement
+ECO | 87701 | 1 | Sustic, Renee | Approved | Accept
+ECO | 87701 | 1 | Guertin, Jessica |  | Implement
+ECO | 87701 | 1 | Brooks, Christopher |  | Implement
+ECO | 87701 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 87701 | 1 | Ormsby, David J. |  | Implement
+ECO | 87701 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 87701 | 1 | Trestain, Barbara |  | Implement
+ECO | 87701 | 1 | Trestain, Barbara | In Process | Accept
+ECO | 87701 | 1 | Holly, Herman | Approved | Accept
+ECO | 87701 | 1 | Holly, Herman |  | Implement
+ECO | 87701 | 1 | Boser, David |  | Implement
+ECO | 84705 | 1 | Foster, Rotha | Approved | Accept
+ECO | 84705 | 1 | Soundararajan, Kathir |  | Implement
+ECO | 84705 | 1 | Soundararajan, Kathir | In Process | Accept
+ECO | 84705 | 1 | Hartley, Brett |  | Implement
+ECO | 84705 | 1 | Larose, Corey |  | Implement
+ECO | 84705 | 1 | Guertin, Jessica |  | Implement
+ECO | 84705 | 1 | Trestain, Barbara | In Process | Accept
+ECO | 84705 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89778 | 1 | Brown, Terri | Approved | Accept
+ECO | 89778 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89778 | 1 | Dalen, Katie |  | Implement
+ECO | 89778 | 1 | Danowski, Tom |  | Implement
+ECO | 89778 | 1 | Leonard, Catherine |  | Implement
+ECO | 89778 | 1 | Leonard, Catherine | In Process | Accept
+ECO | 89778 | 1 | Holly, Herman | Approved | Accept
+ECO | 89778 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89778 | 1 | Boser, David |  | Implement
+ECO | 89778 | 1 | McGranaghan, Jacob | In Process | Accept
+ECO | 89778 | 1 | Cruz, Ignacio | Approved | Accept
+ECO | 89780 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89780 | 1 | Guertin, Jessica |  | Implement
+ECO | 89780 | 1 | Foster, Rotha | In Process | Accept
+ECO | 89780 | 1 | Foster, Rotha |  | Implement
+ECO | 89780 | 1 | Brooks, Christopher |  | Implement
+ECO | 89780 | 1 | Lennon, Craig |  | Implement
+ECO | 89780 | 1 | Larose, Corey |  | Implement
+ECO | 87103 | 1 | Dalen, Katie |  | Implement
+ECO | 87103 | 1 | Holly, Herman |  | Implement
+ECO | 87103 | 1 | Holly, Herman | Approved | Accept
+ECO | 87103 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 87103 | 1 | Dalen, Katie | Approved | Accept
+ECO | 87103 | 1 | Sustic, Renee | Approved | Accept
+ECO | 87103 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 87103 | 1 | Danowski, Tom |  | Implement
+ECO | 87103 | 1 | Dorais, Christopher |  | Implement
+ECO | 87103 | 1 | Lennon, Craig |  | Implement
+ECO | 87103 | 1 | Trestain, Barbara | In Process | Accept
+ECO | 87103 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 87103 | 1 | Chinavare, Christopher |  | Implement
+ECO | 87103 | 1 | Cross, Auzree |  | Implement
+ECO | 87103 | 1 | Smith, Donald J. |  | Implement
+ECO | 87103 | 1 | Brown, Terri |  | Implement
+ECO | 91303 | 1 | Sulaiman, Raja | In Process | Accept
+ECO | 91303 | 1 | Sulaiman, Raja |  | Implement
+ECO | 91303 | 1 | Larose, Corey |  | Implement
+ECO | 91303 | 1 | Girard, Anthony | In Process | Accept
+ECO | 91303 | 1 | Dalen, Katie |  | Implement
+ECO | 89834 | 1 | Brown, Terri | Approved | Accept
+ECO | 89834 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 89834 | 1 | Solomon, Ben | In Process | Accept
+ECO | 89834 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89834 | 1 | Larose, Corey |  | Implement
+ECO | 89834 | 1 | Klear, Brian |  | Implement
+ECO | 89834 | 1 | Hutchons, Kennis |  | Implement
+ECO | 89834 | 1 | Solomon, Ben |  | Implement
+ECO | 89834 | 1 | Guertin, Jessica |  | Implement
+ECO | 89314 | 1 | Broman, William |  | Implement
+ECO | 89314 | 1 | Broman, William | Approved | Accept
+ECO | 89314 | 1 | Guertin, Jessica |  | Implement
+ECO | 89314 | 1 | Kumpula, Robert |  | Implement
+ECO | 89314 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89314 | 1 | McCumons, Jessica |  | Implement
+ECO | 86489 | 1 | Schmitz, Jessica |  | Implement
+ECO | 86489 | 1 | Schmitz, Jessica | Approved | Accept
+ECO | 86489 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 86489 | 1 | Quinlan, Jamie |  | Implement
+ECO | 86489 | 1 | Doherty, James |  | Implement
+ECO | 86489 | 1 | Brown, Terri | Approved | Accept
+ECO | 86489 | 1 | Brown, Terri |  | Implement
+ECO | 86489 | 1 | Ursini, Andrew | Approved | Accept
+ECO | 86489 | 1 | Danowski, Tom |  | Implement
+ECO | 86489 | 1 | Trestain, Barbara | In Process | Accept
+ECO | 86489 | 1 | McCreery, Lindsay |  | Implement
+ECO | 86489 | 1 | Smith, Donald J. |  | Implement
+ECO | 89907 | 1 | Danowski, Tom |  | Implement
+ECO | 89907 | 1 | Leonard, Catherine | In Process | Accept
+ECO | 89907 | 1 | Leonard, Catherine |  | Implement
+ECO | 89907 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 89907 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89907 | 1 | Dalen, Katie |  | Implement
+ECO | 89907 | 1 | Holly, Yvette |  | Implement
+ECO | 89575 | 1 | Iliev, Simeon |  | Implement
+ECO | 89575 | 1 | Iliev, Simeon | Approved | Accept
+ECO | 89575 | 1 | Danowski, Tom |  | Implement
+ECO | 89575 | 1 | Dalen, Katie |  | Implement
+ECO | 89575 | 1 | Rohloff, James | Approved | Accept
+ECO | 89575 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 89575 | 1 | Hallanger, Daniel |  | Implement
+ECO | 89063 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89063 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 89063 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89063 | 1 | Trestain, Barbara |  | Implement
+ECO | 89063 | 1 | Prestia, Courtney |  | Implement
+ECO | 89063 | 1 | Churchman, Jeremy |  | Implement
+ECO | 89063 | 1 | Foster, Rotha |  | Implement
+ECO | 89063 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89063 | 1 | Liao, May |  | Implement
+ECO | 89063 | 1 | Liao, May | In Process | Accept
+ECO | 89063 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 89063 | 1 | Kumpula, Robert |  | Implement
+ECO | 89063 | 1 | Larose, Corey |  | Implement
+ECO | 89831 | 1 | Danowski, Tom |  | Implement
+ECO | 89831 | 1 | Lindemann, Mary |  | Implement
+ECO | 89831 | 1 | McElroy, Joseph |  | Implement
+ECO | 89831 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 89831 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 89831 | 1 | Welch, Robert | Approved | Accept
+ECO | 89831 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89831 | 1 | Dalen, Katie |  | Implement
+ECO | 89831 | 1 | Holly, Herman | Approved | Accept
+ECO | 89831 | 1 | Kies, David | Approved | Accept
+ECO | 89831 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89831 | 1 | Marion, Michael | Approved | Accept
+ECO | 89831 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89831 | 1 | Trestain, Barbara |  | Implement
+ECO | 89831 | 1 | Peters, Jessica | In Process | Accept
+ECO | 89420 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89420 | 1 | Brooks, Christopher |  | Implement
+ECO | 89420 | 1 | Larose, Corey |  | Implement
+ECO | 89420 | 1 | McCreery, Lindsay |  | Implement
+ECO | 89420 | 1 | Foster, Rotha |  | Implement
+ECO | 89420 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89420 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89420 | 1 | Potts, Nancy |  | Implement
+ECO | 89420 | 1 | Lennon, Craig |  | Implement
+ECO | 89795 | 1 | Hewitt, Doug | Approved | Accept
+ECO | 89795 | 1 | Hewitt, Doug |  | Implement
+ECO | 89795 | 1 | Potts, Nancy | In Process | Accept
+ECO | 89795 | 1 | Larose, Corey |  | Implement
+ECO | 89795 | 1 | Dalen, Katie |  | Implement
+ECO | 86862 | 1 | Potts, Nancy | In Process | Accept
+ECO | 86862 | 1 | Larose, Corey | Approved | Accept
+ECO | 86862 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 86862 | 1 | Brooks, Christopher |  | Implement
+ECO | 86862 | 1 | Potts, Nancy |  | Implement
+ECO | 86862 | 1 | Larose, Corey |  | Implement
+ECO | 86862 | 1 | Lindemann, Mary |  | Implement
+ECO | 86862 | 1 | McCreery, Lindsay |  | Implement
+ECO | 86862 | 1 | Trestain, Barbara |  | Implement
+ECO | 86862 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 86862 | 1 | Foster, Rotha |  | Implement
+ECO | 86824 | 1 | Brooks, Christopher |  | Implement
+ECO | 86824 | 1 | Compton, Curtis |  | Implement
+ECO | 86824 | 1 | Foster, Rotha |  | Implement
+ECO | 86824 | 1 | Foster, Rotha | Approved | Accept
+ECO | 86824 | 1 | Larose, Corey |  | Implement
+ECO | 86824 | 1 | Lennon, Craig |  | Implement
+ECO | 86824 | 1 | Lennon, Craig | Approved | Accept
+ECO | 86824 | 1 | Potts, Nancy |  | Implement
+ECO | 86824 | 1 | Potts, Nancy | In Process | Accept
+ECO | 86824 | 1 | Trestain, Barbara |  | Implement
+ECO | 86824 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 86824 | 1 | Dalen, Katie |  | Implement
+ECO | 86824 | 1 | Dalen, Katie | Approved | Accept
+ECO | 86824 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 86824 | 1 | McCumons, Jessica |  | Implement
+ECO | 86824 | 1 | Cross, Auzree |  | Implement
+ECO | 86826 | 1 | Lennon, Craig | Approved | Accept
+ECO | 86826 | 1 | Foster, Rotha | Approved | Accept
+ECO | 86826 | 1 | McCumons, Jessica |  | Implement
+ECO | 86826 | 1 | Brooks, Christopher |  | Implement
+ECO | 86826 | 1 | Larose, Corey |  | Implement
+ECO | 86826 | 1 | Lennon, Craig |  | Implement
+ECO | 86826 | 1 | McCreery, Lindsay |  | Implement
+ECO | 86826 | 1 | Foster, Rotha |  | Implement
+ECO | 86826 | 1 | Bollin, Amanda |  | Implement
+ECO | 86826 | 1 | Bollin, Amanda | Approved | Accept
+ECO | 86826 | 1 | McGranaghan, Jacob |  | Implement
+ECO | 86826 | 1 | McGranaghan, Jacob | In Process | Accept
+ECO | 89909 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89909 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89909 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 89909 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89909 | 1 | Sayer, John | Approved | Accept
+ECO | 89909 | 1 | Kumpula, Robert |  | Implement
+ECO | 89909 | 1 | Wilamowski, Kathryn |  | Implement
+ECO | 89909 | 1 | Larose, Corey |  | Implement
+ECO | 89909 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89909 | 1 | Dalen, Katie |  | Implement
+ECO | 89909 | 1 | Trestain, Barbara |  | Implement
+ECO | 89909 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89909 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89909 | 1 | McCumons, Jessica |  | Implement
+ECO | 89909 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 88623 | 1 | Brown, Terri | Approved | Accept
+ECO | 88623 | 1 | Foster, Rotha | Approved | Accept
+ECO | 88623 | 1 | Larose, Corey |  | Implement
+ECO | 88623 | 1 | Dalen, Katie |  | Implement
+ECO | 88623 | 1 | Finch, Marshall | Approved | Accept
+ECO | 88623 | 1 | Finch, Marshall |  | Implement
+ECO | 88623 | 1 | Potts, Nancy | Approved | Accept
+ECO | 88623 | 1 | Hann, Bryan |  | Implement
+ECO | 88623 | 1 | Hutchons, Kennis |  | Implement
+ECO | 88623 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 88623 | 1 | McCumons, Jessica |  | Implement
+ECO | 88041 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 88041 | 1 | Danowski, Tom |  | Implement
+ECO | 88041 | 1 | Holly, Herman | Approved | Accept
+ECO | 88041 | 1 | Kerr, Kevin |  | Implement
+ECO | 88041 | 1 | Kerr, Kevin | Approved | Accept
+ECO | 88041 | 1 | Lindemann, Mary |  | Implement
+ECO | 88041 | 1 | Dalen, Katie | Approved | Accept
+ECO | 88041 | 1 | Dalen, Katie |  | Implement
+ECO | 88041 | 1 | Dalen, Katie | Approved | Accept
+ECO | 88041 | 1 | Brown, Terri | In Process | Accept
+ECO | 90023 | 1 | Hartley, Brett |  | Implement
+ECO | 90023 | 1 | Larose, Corey |  | Implement
+ECO | 90023 | 1 | Miller, Mike | Approved | Accept
+ECO | 90023 | 1 | Miller, Mike |  | Implement
+ECO | 90023 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90023 | 1 | Brown, Terri | Approved | Accept
+ECO | 90023 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90023 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90049 | 1 | Hartley, Brett |  | Implement
+ECO | 90049 | 1 | Larose, Corey |  | Implement
+ECO | 90049 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 90049 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90049 | 1 | Miller, Mike | Approved | Accept
+ECO | 90049 | 1 | Miller, Mike |  | Implement
+ECO | 90049 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90049 | 1 | Brown, Terri | Approved | Accept
+ECO | 90049 | 1 | Guertin, Jessica |  | Implement
+ECO | 90049 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90562 | 1 | Brown, Terri | Approved | Accept
+ECO | 90562 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90562 | 1 | Metzger, Brittany | Approved | Accept
+ECO | 90562 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90562 | 1 | Larose, Corey |  | Implement
+ECO | 90562 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90562 | 1 | Guertin, Jessica |  | Implement
+ECO | 91462 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91462 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91462 | 1 | Danowski, Tom |  | Implement
+ECO | 91462 | 1 | McElroy, Joseph |  | Implement
+ECO | 91462 | 1 | Kerr, Kevin |  | Implement
+ECO | 91462 | 1 | Larose, Corey |  | Implement
+ECO | 91462 | 1 | Dalen, Katie |  | Implement
+ECO | 90062 | 1 | Hartley, Brett |  | Implement
+ECO | 90062 | 1 | Larose, Corey |  | Implement
+ECO | 90062 | 1 | Miller, Mike | Approved | Accept
+ECO | 90062 | 1 | Miller, Mike |  | Implement
+ECO | 90062 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90062 | 1 | Brown, Terri | Approved | Accept
+ECO | 90062 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90064 | 1 | Hartley, Brett |  | Implement
+ECO | 90064 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90064 | 1 | Larose, Corey |  | Implement
+ECO | 90064 | 1 | Guertin, Jessica |  | Implement
+ECO | 90064 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90064 | 1 | Miller, Mike | Approved | Accept
+ECO | 90064 | 1 | Miller, Mike |  | Implement
+ECO | 90064 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91527 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91527 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91527 | 1 | Kumpula, Robert |  | Implement
+ECO | 91527 | 1 | Wesoloski, Mary |  | Implement
+ECO | 91527 | 1 | Guertin, Jessica |  | Implement
+ECO | 91527 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90794 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90794 | 1 | Lennon, Craig | Approved | Accept
+ECO | 90794 | 1 | Bauman, Stuart |  | Implement
+ECO | 90794 | 1 | Lennon, Craig |  | Implement
+ECO | 90794 | 1 | Hulea, Mary | Approved | Accept
+ECO | 90794 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90794 | 1 | Larose, Corey |  | Implement
+ECO | 90794 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 90794 | 1 | Danowski, Tom |  | Implement
+ECO | 90794 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 90794 | 1 | Kerr, Kevin |  | Implement
+ECO | 90794 | 1 | Foster, Rotha | In Process | Accept
+ECO | 90280 | 1 | Metzger, Brittany | Approved | Accept
+ECO | 90280 | 1 | Larose, Corey |  | Implement
+ECO | 90280 | 1 | Guertin, Jessica |  | Implement
+ECO | 90280 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90280 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90280 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 90902 | 1 | Finch, Marshall | Approved | Accept
+ECO | 90902 | 1 | Finch, Marshall |  | Implement
+ECO | 90902 | 1 | Larose, Corey |  | Implement
+ECO | 90902 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90902 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90902 | 1 | Bollin, Amanda | Approved | Accept
+ECO | 91268 | 1 | Andrzejewski, Stuart | In Process | Accept
+ECO | 91268 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91268 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91268 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91268 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91268 | 1 | Wood, Andrew | Approved | Accept
+ECO | 91268 | 1 | Breedlove, Frankie |  | Implement
+ECO | 91268 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 91268 | 1 | Larose, Corey |  | Implement
+ECO | 91268 | 1 | Dalen, Katie |  | Implement
+ECO | 91393 | 1 | Kumpula, Robert |  | Implement
+ECO | 91393 | 1 | Fiorello, Jacob | Approved | Accept
+ECO | 91393 | 1 | Fiorello, Jacob |  | Implement
+ECO | 91393 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91393 | 1 | Guertin, Jessica |  | Implement
+ECO | 91393 | 1 | Lipps, Viralyne |  | Implement
+ECO | 91022 | 1 | Eccleston, Rolando A. |  | Implement
+ECO | 91022 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 91022 | 1 | Riley, Rachael |  | Implement
+ECO | 91022 | 1 | Dalen, Katie |  | Implement
+ECO | 91022 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91022 | 1 | Larose, Corey |  | Implement
+ECO | 91022 | 1 | Trestain, Barbara |  | Implement
+ECO | 91022 | 1 | Bollin, Amanda | In Process | Accept
+ECO | 91432 | 1 | Guertin, Jessica |  | Implement
+ECO | 91432 | 1 | Morrison, Kyle |  | Implement
+ECO | 91432 | 1 | Morrison, Kyle | In Process | Accept
+ECO | 91432 | 1 | Larose, Corey |  | Implement
+ECO | 91432 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91432 | 1 | Chinavare, Christopher | In Process | Accept
+ECO | 91432 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 91432 | 1 | Sulaiman, Raja |  | Implement
+ECO | 91432 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91432 | 1 | Chinavare, Christopher |  | Implement
+ECO | 91432 | 1 | Holly, Herman |  | Implement
+ECO | 91432 | 1 | Wesoloski, Mary |  | Implement
+ECO | 91432 | 1 | Wesoloski, Mary | In Process | Accept
+ECO | 91432 | 1 | Holly, Herman | Approved | Accept
+ECO | 91432 | 1 | Reed, Travis |  | Implement
+ECO | 91432 | 1 | Thomas, Mary | In Process | Accept
+ECO | 90567 | 1 | Dart, Ronald |  | Implement
+ECO | 90567 | 1 | Dart, Ronald | Approved | Accept
+ECO | 90567 | 1 | Brown, Terri | Approved | Accept
+ECO | 90567 | 1 | Danowski, Tom |  | Implement
+ECO | 90567 | 1 | Churchman, Jeremy | Approved | Accept
+ECO | 90567 | 1 | Holly, Herman | Approved | Accept
+ECO | 90567 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90567 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90567 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 90567 | 1 | Hann, Bryan |  | Implement
+ECO | 90567 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 90567 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90567 | 1 | Lennon, Craig | In Process | Accept
+ECO | 90567 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 90567 | 1 | Hulea, Mary | Approved | Accept
+ECO | 91132 | 1 | Holly, Herman | Approved | Accept
+ECO | 91132 | 1 | Danowski, Tom |  | Implement
+ECO | 91132 | 1 | Rickard, Randy |  | Implement
+ECO | 91132 | 1 | Rickard, Randy | In Process | Accept
+ECO | 91132 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91132 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91132 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91132 | 1 | Dalen, Katie |  | Implement
+ECO | 90597 | 1 | Brown, Terri | Approved | Accept
+ECO | 90597 | 1 | Danowski, Tom |  | Implement
+ECO | 90597 | 1 | Dart, Ronald | In Process | Accept
+ECO | 90597 | 1 | Dart, Ronald |  | Implement
+ECO | 90597 | 1 | Guertin, Jessica |  | Implement
+ECO | 90597 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90597 | 1 | McMunigal, Ryan |  | Implement
+ECO | 90597 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90597 | 1 | Holly, Herman | Approved | Accept
+ECO | 90597 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90597 | 1 | Larose, Corey |  | Implement
+ECO | 90597 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90597 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 91475 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91475 | 1 | Kerr, Kevin |  | Implement
+ECO | 91475 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91475 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91475 | 1 | Trestain, Barbara |  | Implement
+ECO | 91475 | 1 | Dalen, Katie |  | Implement
+ECO | 91021 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91021 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 91021 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91021 | 1 | Dalen, Katie |  | Implement
+ECO | 91021 | 1 | Larose, Corey |  | Implement
+ECO | 91021 | 1 | Mullins, Alycia |  | Implement
+ECO | 91021 | 1 | Hulea, Mary | In Process | Accept
+ECO | 91021 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91353 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91353 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91353 | 1 | Kattula, Moon | In Process | Accept
+ECO | 91353 | 1 | Holly, Herman | Approved | Accept
+ECO | 91353 | 1 | Dalen, Katie |  | Implement
+ECO | 91353 | 1 | Kattula, Moon |  | Implement
+ECO | 91353 | 1 | Danowski, Tom |  | Implement
+ECO | 90549 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 90549 | 1 | Liao, May | In Process | Accept
+ECO | 90549 | 1 | Dalen, Katie |  | Implement
+ECO | 90549 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 90549 | 1 | Larose, Corey |  | Implement
+ECO | 90971 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 90971 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 90971 | 1 | Larose, Corey |  | Implement
+ECO | 90971 | 1 | McGranaghan, Jacob | In Process | Accept
+ECO | 90971 | 1 | Guertin, Jessica |  | Implement
+ECO | 90971 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90910 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 90910 | 1 | Larose, Corey |  | Implement
+ECO | 90910 | 1 | Mullins, Alycia |  | Implement
+ECO | 90910 | 1 | Dalen, Katie |  | Implement
+ECO | 90910 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91217 | 1 | Dalen, Katie |  | Implement
+ECO | 91217 | 1 | Larose, Corey |  | Implement
+ECO | 91217 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91217 | 1 | Riley, Rachael |  | Implement
+ECO | 91217 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 91217 | 1 | Eccleston, Rolando A. |  | Implement
+ECO | 90888 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 90888 | 1 | Rohloff, James | Approved | Accept
+ECO | 90888 | 1 | Larose, Corey |  | Implement
+ECO | 90888 | 1 | Riley, Rachael |  | Implement
+ECO | 90888 | 1 | Kumpula, Robert |  | Implement
+ECO | 90888 | 1 | Dalen, Katie |  | Implement
+ECO | 90888 | 1 | Liao, May |  | Implement
+ECO | 90888 | 1 | Liao, May | In Process | Accept
+ECO | 90944 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 90944 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 90944 | 1 | Larose, Corey |  | Implement
+ECO | 90944 | 1 | McGranaghan, Jacob | In Process | Accept
+ECO | 90944 | 1 | Guertin, Jessica |  | Implement
+ECO | 90944 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91305 | 1 | Gay, Zack | In Process | Accept
+ECO | 91305 | 1 | Gay, Zack |  | Implement
+ECO | 91305 | 1 | Larose, Corey |  | Implement
+ECO | 91305 | 1 | Wilamowski, Kathryn | In Process | Accept
+ECO | 91305 | 1 | Dalen, Katie |  | Implement
+ECO | 91305 | 1 | Foster, Rotha | Approved | Accept
+ECO | 91305 | 1 | Peters, Jessica | In Process | Accept
+ECO | 90337 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90337 | 1 | Holly, Herman | Approved | Accept
+ECO | 90337 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 90337 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90337 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90337 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 90337 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 90337 | 1 | Danowski, Tom |  | Implement
+ECO | 90337 | 1 | Kumpula, Robert |  | Implement
+ECO | 90337 | 1 | Larose, Corey |  | Implement
+ECO | 90337 | 1 | McCumons, Jessica |  | Implement
+ECO | 90337 | 1 | Prestia, Courtney |  | Implement
+ECO | 90337 | 1 | Trestain, Barbara |  | Implement
+ECO | 90337 | 1 | Compton, Curtis | Approved | Accept
+ECO | 90337 | 1 | Boggs, Emily |  | Implement
+ECO | 90255 | 1 | Kumpula, Robert | In Process | Accept
+ECO | 90255 | 1 | Potts, Nancy | Approved | Accept
+ECO | 90255 | 1 | Kumpula, Robert |  | Implement
+ECO | 90255 | 1 | Prestia, Courtney |  | Implement
+ECO | 90255 | 1 | McCumons, Jessica |  | Implement
+ECO | 90255 | 1 | Larose, Corey |  | Implement
+ECO | 91457 | 1 | Bala, Mani | Approved | Accept
+ECO | 91457 | 1 | Bala, Mani |  | Implement
+ECO | 91457 | 1 | Larose, Corey |  | Implement
+ECO | 91457 | 1 | Dalen, Katie |  | Implement
+ECO | 91457 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 91457 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91609 | 1 | Thomas, Mary |  | Implement
+ECO | 91609 | 1 | Thomas, Mary | In Process | Accept
+ECO | 91609 | 1 | Danowski, Tom |  | Implement
+ECO | 91609 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91609 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91609 | 1 | Dalen, Katie |  | Implement
+ECO | 91609 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91490 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91490 | 1 | Broman, William | In Process | Accept
+ECO | 91490 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91490 | 1 | Broman, William |  | Implement
+ECO | 91490 | 1 | Guertin, Jessica |  | Implement
+ECO | 91490 | 1 | Medema, Steven |  | Implement
+ECO | 91490 | 1 | Larose, Corey |  | Implement
+ECO | 91490 | 1 | Trestain, Barbara |  | Implement
+ECO | 91184 | 1 | Foster, Rotha | Approved | Accept
+ECO | 91184 | 1 | Richmond, Jason | In Process | Accept
+ECO | 91184 | 1 | Larose, Corey |  | Implement
+ECO | 91184 | 1 | Riley, Rachael |  | Implement
+ECO | 91184 | 1 | Richmond, Jason |  | Implement
+ECO | 91184 | 1 | Wilamowski, Kathryn |  | Implement
+ECO | 91184 | 1 | Guertin, Jessica |  | Implement
+ECO | 91184 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91339 | 1 | Thomas, Mary | In Process | Accept
+ECO | 91339 | 1 | Thomas, Mary |  | Implement
+ECO | 91339 | 1 | Larose, Corey |  | Implement
+ECO | 91339 | 1 | Guertin, Jessica |  | Implement
+ECO | 91339 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91339 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 91340 | 1 | Sulaiman, Raja | In Process | Accept
+ECO | 91340 | 1 | Sulaiman, Raja |  | Implement
+ECO | 91340 | 1 | Larose, Corey |  | Implement
+ECO | 91340 | 1 | Dalen, Katie |  | Implement
+ECO | 91340 | 1 | Girard, Anthony | In Process | Accept
+ECO | 91340 | 1 | Gill, Joseph | In Process | Accept
+ECO | 90319 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90319 | 1 | Danowski, Tom |  | Implement
+ECO | 90319 | 1 | Guertin, Jessica |  | Implement
+ECO | 90319 | 1 | Lindemann, Mary |  | Implement
+ECO | 90319 | 1 | McElroy, Joseph |  | Implement
+ECO | 90319 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 90319 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 90319 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90319 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 90319 | 1 | Cruz, Ignacio |  | Implement
+ECO | 90319 | 1 | Cruz, Ignacio | Approved | Accept
+ECO | 90319 | 1 | Hutchons, Kennis |  | Implement
+ECO | 91580 | 1 | Lipps, Viralyne |  | Implement
+ECO | 91580 | 1 | Fiorello, Jacob |  | Implement
+ECO | 91580 | 1 | Fiorello, Jacob | Approved | Accept
+ECO | 91580 | 1 | Kumpula, Robert |  | Implement
+ECO | 91580 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91580 | 1 | Guertin, Jessica |  | Implement
+ECO | 91580 | 1 | Peters, Jessica | In Process | Accept
+ECO | 90790 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 90790 | 1 | Danowski, Tom |  | Implement
+ECO | 90790 | 1 | Guertin, Jessica |  | Implement
+ECO | 90790 | 1 | Lindemann, Mary |  | Implement
+ECO | 90790 | 1 | McElroy, Joseph |  | Implement
+ECO | 90790 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 90939 | 1 | Dalen, Katie |  | Implement
+ECO | 90939 | 1 | Harikrishnan, Prakash |  | Implement
+ECO | 90939 | 1 | Harikrishnan, Prakash | In Process | Accept
+ECO | 90939 | 1 | Kumpula, Robert |  | Implement
+ECO | 90939 | 1 | Liao, May | In Process | Accept
+ECO | 90939 | 1 | Foster, Rotha | In Process | Accept
+ECO | 91599 | 1 | Willis, Jason | In Process | Accept
+ECO | 91599 | 1 | Willis, Jason |  | Implement
+ECO | 91599 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91599 | 1 | Dalen, Katie |  | Implement
+ECO | 91599 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91599 | 1 | Danowski, Tom |  | Implement
+ECO | 91599 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91285 | 1 | Dalen, Katie |  | Implement
+ECO | 91285 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91285 | 1 | Danowski, Tom |  | Implement
+ECO | 91285 | 1 | Hartley, Brett |  | Implement
+ECO | 91285 | 1 | Leonard, Catherine |  | Implement
+ECO | 91285 | 1 | Leonard, Catherine | In Process | Accept
+ECO | 91285 | 1 | Brown, Terri | Approved | Accept
+ECO | 91285 | 1 | Holly, Herman | Approved | Accept
+ECO | 91285 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91285 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91285 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91285 | 1 | Barsoum, Laura |  | Implement
+ECO | 90581 | 1 | Larose, Corey |  | Implement
+ECO | 90581 | 1 | Pacey, Mark | Approved | Accept
+ECO | 90581 | 1 | Pacey, Mark |  | Implement
+ECO | 90581 | 1 | Lindemann, Mary |  | Implement
+ECO | 90581 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90581 | 1 | Dalen, Katie |  | Implement
+ECO | 90581 | 1 | Fike, Jessica | Approved | Accept
+ECO | 90581 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90581 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 91380 | 1 | Dart, Ronald |  | Implement
+ECO | 91380 | 1 | Dart, Ronald | In Process | Accept
+ECO | 91380 | 1 | Danowski, Tom |  | Implement
+ECO | 91380 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91380 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91380 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91380 | 1 | Guertin, Jessica |  | Implement
+ECO | 91380 | 1 | Holly, Herman | Approved | Accept
+ECO | 90632 | 1 | Brown, Terri | Approved | Accept
+ECO | 90632 | 1 | Breedlove, Frankie |  | Implement
+ECO | 90632 | 1 | Danowski, Tom |  | Implement
+ECO | 90632 | 1 | Dorais, Christopher | In Process | Accept
+ECO | 90632 | 1 | Dorais, Christopher |  | Implement
+ECO | 90632 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 90632 | 1 | Guertin, Jessica |  | Implement
+ECO | 91463 | 1 | Dalen, Katie |  | Implement
+ECO | 91463 | 1 | Danowski, Tom |  | Implement
+ECO | 91463 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91463 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91463 | 1 | Brown, Terri | Approved | Accept
+ECO | 91463 | 1 | Holly, Herman | Approved | Accept
+ECO | 91463 | 1 | Larose, Corey |  | Implement
+ECO | 91463 | 1 | Lindemann, Mary |  | Implement
+ECO | 91463 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91463 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91509 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91509 | 1 | Dalen, Katie |  | Implement
+ECO | 91509 | 1 | Danowski, Tom |  | Implement
+ECO | 91509 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91509 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91509 | 1 | Hutchons, Kennis |  | Implement
+ECO | 91509 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 91509 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91598 | 1 | Bala, Mani | In Process | Accept
+ECO | 91598 | 1 | Chinavare, Christopher | In Process | Accept
+ECO | 91598 | 1 | Bala, Mani |  | Implement
+ECO | 91598 | 1 | Larose, Corey |  | Implement
+ECO | 91598 | 1 | Guertin, Jessica |  | Implement
+ECO | 91598 | 1 | Guertin, Jessica | In Process | Accept
+ECO | 91598 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 91598 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91598 | 1 | Wood, Andrew | In Process | Accept
+ECO | 91598 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91598 | 1 | Minney, Nicole | In Process | Accept
+ECO | 91598 | 1 | Lipps, Viralyne |  | Implement
+ECO | 90282 | 1 | Brown, Terri | Approved | Accept
+ECO | 90282 | 1 | Larose, Corey |  | Implement
+ECO | 90282 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90282 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90282 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90282 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 90282 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 91701 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91701 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 91701 | 1 | Mullins, Alycia |  | Implement
+ECO | 91701 | 1 | Larose, Corey |  | Implement
+ECO | 91115 | 1 | Larose, Corey |  | Implement
+ECO | 91115 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 91115 | 1 | Andrzejewski, Stuart | In Process | Accept
+ECO | 91115 | 1 | Guertin, Jessica |  | Implement
+ECO | 91115 | 1 | Foster, Rotha | In Process | Accept
+ECO | 91093 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 91093 | 1 | Larose, Corey |  | Implement
+ECO | 91093 | 1 | Klear, Brian |  | Implement
+ECO | 91093 | 1 | Cooney, Daniel |  | Implement
+ECO | 91093 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 91093 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91093 | 1 | Dalen, Katie |  | Implement
+ECO | 91093 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91093 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91231 | 1 | Dalen, Katie |  | Implement
+ECO | 91231 | 1 | Larose, Corey |  | Implement
+ECO | 91231 | 1 | Danowski, Tom |  | Implement
+ECO | 91231 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91231 | 1 | Kulkarni, Tanay | In Process | Accept
+ECO | 91231 | 1 | Kulkarni, Tanay |  | Implement
+ECO | 91231 | 1 | Schmidt, Kevin | Approved | Accept
+ECO | 91376 | 1 | Brown, Terri | Approved | Accept
+ECO | 91376 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91376 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91376 | 1 | Danowski, Tom |  | Implement
+ECO | 91376 | 1 | Guertin, Jessica |  | Implement
+ECO | 91376 | 1 | Holly, Herman |  | Implement
+ECO | 91376 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91376 | 1 | Oldaker, Gareth |  | Implement
+ECO | 91376 | 1 | Thomas, Mary |  | Implement
+ECO | 90848 | 1 | Hulea, Mary | Approved | Accept
+ECO | 90848 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 90848 | 1 | Dalen, Katie |  | Implement
+ECO | 90848 | 1 | Mullins, Alycia |  | Implement
+ECO | 90848 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90848 | 1 | Kumpula, Robert |  | Implement
+ECO | 91669 | 1 | Holly, Herman | In Process | Accept
+ECO | 91669 | 1 | Chinavare, Christopher | In Process | Accept
+ECO | 91669 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91669 | 1 | Larose, Corey |  | Implement
+ECO | 91669 | 1 | Reed, Travis |  | Implement
+ECO | 91669 | 1 | Dalen, Katie |  | Implement
+ECO | 91669 | 1 | Ley, Brandon |  | Implement
+ECO | 91669 | 1 | Ley, Brandon | In Process | Accept
+ECO | 91669 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91345 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 91345 | 1 | Larose, Corey |  | Implement
+ECO | 91345 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 91345 | 1 | Guertin, Jessica |  | Implement
+ECO | 91345 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91428 | 1 | Broman, William |  | Implement
+ECO | 91428 | 1 | Broman, William | In Process | Accept
+ECO | 91428 | 1 | Larose, Corey |  | Implement
+ECO | 91428 | 1 | Medema, Steven |  | Implement
+ECO | 91428 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91428 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91428 | 1 | Guertin, Jessica |  | Implement
+ECO | 91428 | 1 | Fike, Jessica | Approved | Accept
+ECO | 91428 | 1 | Hulea, Mary | In Process | Accept
+ECO | 91428 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91434 | 1 | Larose, Corey |  | Implement
+ECO | 91434 | 1 | Richmond, Jason | In Process | Accept
+ECO | 91434 | 1 | Richmond, Jason |  | Implement
+ECO | 91434 | 1 | Foster, Rotha | Approved | Accept
+ECO | 91434 | 1 | Prestia, Courtney |  | Implement
+ECO | 91334 | 1 | Wilamowski, Kathryn | In Process | Accept
+ECO | 91334 | 1 | Wilamowski, Kathryn |  | Implement
+ECO | 91334 | 1 | Larose, Corey |  | Implement
+ECO | 91334 | 1 | Dalen, Katie |  | Implement
+ECO | 91596 | 1 | Kattula, Moon | In Process | Accept
+ECO | 91596 | 1 | Holly, Herman | Approved | Accept
+ECO | 91596 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91596 | 1 | Kattula, Moon |  | Implement
+ECO | 91596 | 1 | Guertin, Jessica |  | Implement
+ECO | 91596 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91596 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91596 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91596 | 1 | Danowski, Tom |  | Implement
+ECO | 90308 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90308 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 90308 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 90308 | 1 | Dalen, Katie |  | Implement
+ECO | 90308 | 1 | Larose, Corey |  | Implement
+ECO | 90309 | 1 | Foster, Rotha | In Process | Accept
+ECO | 90309 | 1 | Morrison, Kyle | In Process | Accept
+ECO | 90309 | 1 | Larose, Corey |  | Implement
+ECO | 90309 | 1 | Morrison, Kyle |  | Implement
+ECO | 90309 | 1 | Guertin, Jessica |  | Implement
+ECO | 91474 | 1 | Danowski, Tom |  | Implement
+ECO | 91474 | 1 | McElroy, Joseph |  | Implement
+ECO | 91474 | 1 | Kerr, Kevin |  | Implement
+ECO | 91474 | 1 | Larose, Corey |  | Implement
+ECO | 91474 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91474 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91474 | 1 | Guertin, Jessica |  | Implement
+ECO | 91168 | 1 | Aldrink, Alyssa | In Process | Accept
+ECO | 91168 | 1 | Aldrink, Alyssa |  | Implement
+ECO | 91168 | 1 | Larose, Corey |  | Implement
+ECO | 91168 | 1 | Kerr, Kevin |  | Implement
+ECO | 91168 | 1 | Dalen, Katie |  | Implement
+ECO | 91168 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91168 | 1 | Hudson, Chris | Approved | Accept
+ECO | 91168 | 1 | Danowski, Tom |  | Implement
+ECO | 91168 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 91168 | 1 | McElroy, Joseph |  | Implement
+ECO | 91168 | 1 | McMunigal, Ryan |  | Implement
+ECO | 90409 | 1 | Larose, Corey |  | Implement
+ECO | 90409 | 1 | Andrzejewski, Stuart | In Process | Accept
+ECO | 90409 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 90409 | 1 | Dalen, Katie |  | Implement
+ECO | 91456 | 1 | Danowski, Tom |  | Implement
+ECO | 91456 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91456 | 1 | Kerr, Kevin |  | Implement
+ECO | 91456 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91456 | 1 | Guertin, Jessica |  | Implement
+ECO | 91740 | 1 | Wilamowski, Kathryn | In Process | Accept
+ECO | 91740 | 1 | Wilamowski, Kathryn |  | Implement
+ECO | 91740 | 1 | Guertin, Jessica |  | Implement
+ECO | 91740 | 1 | Kumpula, Robert |  | Implement
+ECO | 91617 | 1 | Ley, Brandon | Approved | Accept
+ECO | 91617 | 1 | Chinavare, Christopher | In Process | Accept
+ECO | 91617 | 1 | Larose, Corey |  | Implement
+ECO | 91617 | 1 | Ley, Brandon |  | Implement
+ECO | 91617 | 1 | Dalen, Katie |  | Implement
+ECO | 91617 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91617 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91439 | 1 | Guertin, Jessica |  | Implement
+ECO | 91439 | 1 | Larose, Corey |  | Implement
+ECO | 91439 | 1 | Medema, Steven |  | Implement
+ECO | 91439 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91439 | 1 | Broman, William |  | Implement
+ECO | 91439 | 1 | Broman, William | In Process | Accept
+ECO | 91439 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91439 | 1 | Brown, Terri | In Process | Accept
+ECO | 91538 | 1 | Wilamowski, Kathryn | In Process | Accept
+ECO | 91538 | 1 | Wilamowski, Kathryn |  | Implement
+ECO | 91538 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91538 | 1 | Danowski, Tom |  | Implement
+ECO | 91538 | 1 | Larose, Corey |  | Implement
+ECO | 91538 | 1 | Kerr, Kevin |  | Implement
+ECO | 91538 | 1 | McElroy, Joseph |  | Implement
+ECO | 91538 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91538 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91538 | 1 | Dalen, Katie |  | Implement
+ECO | 91538 | 1 | McGranaghan, Jacob | In Process | Accept
+ECO | 91528 | 1 | Brown, Terri | Approved | Accept
+ECO | 91528 | 1 | Chinavare, Christopher | In Process | Accept
+ECO | 91528 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91528 | 1 | Kumpula, Robert |  | Implement
+ECO | 91528 | 1 | Lipps, Viralyne |  | Implement
+ECO | 91528 | 1 | Dalen, Katie |  | Implement
+ECO | 91528 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91528 | 1 | Morrison, Kyle |  | Implement
+ECO | 91528 | 1 | Morrison, Kyle | In Process | Accept
+ECO | 91324 | 1 | Wesoloski, Mary | In Process | Accept
+ECO | 91324 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91324 | 1 | Fike, Jessica | Approved | Accept
+ECO | 91324 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91324 | 1 | Reed, Travis |  | Implement
+ECO | 91324 | 1 | Wesoloski, Mary |  | Implement
+ECO | 91324 | 1 | Dalen, Katie |  | Implement
+ECO | 91324 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91575 | 1 | Sulaiman, Raja | In Process | Accept
+ECO | 91575 | 1 | Danowski, Tom |  | Implement
+ECO | 91575 | 1 | Larose, Corey |  | Implement
+ECO | 91575 | 1 | McElroy, Joseph |  | Implement
+ECO | 91575 | 1 | Kerr, Kevin |  | Implement
+ECO | 91575 | 1 | Sulaiman, Raja |  | Implement
+ECO | 91575 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91575 | 1 | Dalen, Katie |  | Implement
+ECO | 91575 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90789 | 1 | Dalen, Katie |  | Implement
+ECO | 90789 | 1 | Morrison, Kyle | Approved | Accept
+ECO | 90789 | 1 | Morrison, Kyle |  | Implement
+ECO | 90789 | 1 | Larose, Corey |  | Implement
+ECO | 90789 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90789 | 1 | Foster, Rotha | In Process | Accept
+ECO | 90789 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 90789 | 1 | Peters, Jessica | In Process | Accept
+ECO | 90575 | 1 | Larose, Corey |  | Implement
+ECO | 90575 | 1 | Morrison, Kyle | Approved | Accept
+ECO | 90575 | 1 | Morrison, Kyle |  | Implement
+ECO | 90575 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90575 | 1 | Peters, Jessica | In Process | Accept
+ECO | 90575 | 1 | Guertin, Jessica |  | Implement
+ECO | 90599 | 1 | Larose, Corey |  | Implement
+ECO | 90599 | 1 | Kerr, Kevin |  | Implement
+ECO | 90599 | 1 | Danowski, Tom |  | Implement
+ECO | 90599 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90599 | 1 | Merritt, Frank | In Process | Accept
+ECO | 90599 | 1 | Holly, Yvette | In Process | Accept
+ECO | 90599 | 1 | Holly, Yvette |  | Implement
+ECO | 90800 | 1 | Soundararajan, Kathir | In Process | Accept
+ECO | 90800 | 1 | Foster, Rotha | In Process | Accept
+ECO | 90800 | 1 | Soundararajan, Kathir |  | Implement
+ECO | 90800 | 1 | Larose, Corey |  | Implement
+ECO | 90800 | 1 | Dalen, Katie |  | Implement
+ECO | 90800 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91296 | 1 | Willis, Jason | In Process | Accept
+ECO | 91296 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91296 | 1 | Danowski, Tom |  | Implement
+ECO | 91296 | 1 | Willis, Jason |  | Implement
+ECO | 91296 | 1 | McKay, Kevin | In Process | Accept
+ECO | 91296 | 1 | McCreery, Lindsay |  | Implement
+ECO | 91296 | 1 | McMunigal, Ryan |  | Implement
+ECO | 90986 | 1 | Harikrishnan, Prakash |  | Implement
+ECO | 90986 | 1 | Harikrishnan, Prakash | In Process | Accept
+ECO | 90986 | 1 | Kumpula, Robert |  | Implement
+ECO | 90986 | 1 | Liao, May | In Process | Accept
+ECO | 90986 | 1 | McCreery, Lindsay |  | Implement
+ECO | 90987 | 1 | Kumpula, Robert |  | Implement
+ECO | 90987 | 1 | Harikrishnan, Prakash |  | Implement
+ECO | 90987 | 1 | Harikrishnan, Prakash | In Process | Accept
+ECO | 90987 | 1 | Liao, May | In Process | Accept
+ECO | 90987 | 1 | Hudson, Chris | In Process | Accept
+ECO | 90987 | 1 | Dalen, Katie |  | Implement
+ECO | 91165 | 1 | Hulea, Mary | Approved | Accept
+ECO | 91165 | 1 | Soundararajan, Kathir | In Process | Accept
+ECO | 91165 | 1 | McGranaghan, Jacob | Approved | Accept
+ECO | 91165 | 1 | Soundararajan, Kathir |  | Implement
+ECO | 91165 | 1 | Larose, Corey |  | Implement
+ECO | 91165 | 1 | Danowski, Tom |  | Implement
+ECO | 91165 | 1 | Dalen, Katie |  | Implement
+ECO | 91165 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91467 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 91467 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 91467 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91467 | 1 | Larose, Corey |  | Implement
+ECO | 91467 | 1 | Danowski, Tom |  | Implement
+ECO | 91467 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91467 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91467 | 1 | Guertin, Jessica |  | Implement
+ECO | 91467 | 1 | Kerr, Kevin |  | Implement
+ECO | 91467 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91467 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 91117 | 1 | Foster, Rotha | In Process | Accept
+ECO | 91117 | 1 | Morrison, Kyle | In Process | Accept
+ECO | 91117 | 1 | Larose, Corey |  | Implement
+ECO | 91117 | 1 | Guertin, Jessica |  | Implement
+ECO | 91117 | 1 | Morrison, Kyle |  | Implement
+ECO | 91117 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91117 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91117 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91117 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91343 | 1 | Brown, Terri | Approved | Accept
+ECO | 91343 | 1 | Larose, Corey |  | Implement
+ECO | 91343 | 1 | Guertin, Jessica |  | Implement
+ECO | 91343 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91343 | 1 | Bala, Mani |  | Implement
+ECO | 91656 | 1 | Bala, Mani | In Process | Accept
+ECO | 91656 | 1 | Larose, Corey |  | Implement
+ECO | 91656 | 1 | Bala, Mani |  | Implement
+ECO | 91656 | 1 | Guertin, Jessica |  | Implement
+ECO | 91656 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91656 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91207 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91207 | 1 | Holly, Herman | Approved | Accept
+ECO | 91207 | 1 | Willis, Jason | In Process | Accept
+ECO | 91207 | 1 | Danowski, Tom |  | Implement
+ECO | 91207 | 1 | Willis, Jason |  | Implement
+ECO | 91207 | 1 | Guertin, Jessica |  | Implement
+ECO | 91207 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91274 | 1 | Brown, Terri | Approved | Accept
+ECO | 91274 | 1 | Leonard, Catherine |  | Implement
+ECO | 91274 | 1 | Leonard, Catherine | In Process | Accept
+ECO | 91274 | 1 | Danowski, Tom |  | Implement
+ECO | 91274 | 1 | Dalen, Katie |  | Implement
+ECO | 91494 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91494 | 1 | Schmitz, Jessica |  | Implement
+ECO | 91494 | 1 | Vermurlen, Alexandra | Approved | Accept
+ECO | 91494 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 91494 | 1 | Guertin, Jessica |  | Implement
+ECO | 91363 | 1 | Danowski, Tom |  | Implement
+ECO | 91363 | 1 | Lindemann, Mary |  | Implement
+ECO | 91363 | 1 | McElroy, Joseph |  | Implement
+ECO | 91363 | 1 | McElroy, Joseph | In Process | Accept
+ECO | 91363 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91363 | 1 | McCreery, Lindsay |  | Implement
+ECO | 91363 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91363 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91515 | 1 | Holly, Herman | Approved | Accept
+ECO | 91515 | 1 | Kattula, Moon | In Process | Accept
+ECO | 91515 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91515 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91515 | 1 | Dalen, Katie |  | Implement
+ECO | 91515 | 1 | Kattula, Moon |  | Implement
+ECO | 91515 | 1 | Danowski, Tom |  | Implement
+ECO | 91515 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91738 | 1 | Bridge, Roxanne |  | Implement
+ECO | 91738 | 1 | Bridge, Roxanne | In Process | Accept
+ECO | 91738 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 91738 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91738 | 1 | Schmitz, Jessica |  | Implement
+ECO | 91738 | 1 | McCreery, Lindsay |  | Implement
+ECO | 91738 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 91600 | 1 | Richmond, Jason | In Process | Accept
+ECO | 91600 | 1 | Richmond, Jason |  | Implement
+ECO | 91600 | 1 | Hudson, Chris | Approved | Accept
+ECO | 91600 | 1 | Guertin, Jessica |  | Implement
+ECO | 91600 | 1 | Larose, Corey |  | Implement
+ECO | 91600 | 1 | Liao, May | In Process | Accept
+ECO | 90749 | 1 | Brown, Terri | Approved | Accept
+ECO | 90749 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90749 | 1 | Richmond, Jason | In Process | Accept
+ECO | 90749 | 1 | Larose, Corey |  | Implement
+ECO | 90749 | 1 | Riley, Rachael |  | Implement
+ECO | 90749 | 1 | Richmond, Jason |  | Implement
+ECO | 90749 | 1 | Guertin, Jessica |  | Implement
+ECO | 90749 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90749 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90749 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 91446 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 91446 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 91446 | 1 | Larose, Corey |  | Implement
+ECO | 91446 | 1 | Girard, Anthony | In Process | Accept
+ECO | 91446 | 1 | Dalen, Katie |  | Implement
+ECO | 91446 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91355 | 1 | Dalen, Katie |  | Implement
+ECO | 91355 | 1 | Morrison, Kyle | In Process | Accept
+ECO | 91355 | 1 | Morrison, Kyle |  | Implement
+ECO | 91355 | 1 | Larose, Corey |  | Implement
+ECO | 91355 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91355 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91521 | 1 | Brown, Terri | Approved | Accept
+ECO | 91521 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 91521 | 1 | Rosenthal, Murray | In Process | Accept
+ECO | 91521 | 1 | Rosenthal, Murray |  | Implement
+ECO | 91521 | 1 | Schmitz, Jessica |  | Implement
+ECO | 91521 | 1 | Guertin, Jessica |  | Implement
+ECO | 91521 | 1 | Guertin, Jessica | In Process | Accept
+ECO | 91521 | 1 | Marcum, Cassel | In Process | Accept
+ECO | 91227 | 1 | McCreery, Lindsay |  | Implement
+ECO | 91227 | 1 | Wilamowski, Kathryn | In Process | Accept
+ECO | 91227 | 1 | Larose, Corey |  | Implement
+ECO | 91395 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 91395 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 91395 | 1 | Dalen, Katie |  | Implement
+ECO | 91395 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91395 | 1 | Mahoney, David E. |  | Implement
+ECO | 91395 | 1 | Hallanger, Daniel | In Process | Accept
+ECO | 90480 | 1 | McMunigal, Ryan |  | Implement
+ECO | 90480 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 90480 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90480 | 1 | Holly, Herman | Approved | Accept
+ECO | 90480 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90480 | 1 | Sayer, John | Approved | Accept
+ECO | 90480 | 1 | Trestain, Barbara |  | Implement
+ECO | 90480 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90480 | 1 | Dalen, Katie |  | Implement
+ECO | 90480 | 1 | Danowski, Tom |  | Implement
+ECO | 90480 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 91519 | 1 | Morrison, Kyle |  | Implement
+ECO | 91519 | 1 | Morrison, Kyle | In Process | Accept
+ECO | 91519 | 1 | Hudson, Chris | In Process | Accept
+ECO | 91519 | 1 | Larose, Corey |  | Implement
+ECO | 91519 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91519 | 1 | Guertin, Jessica |  | Implement
+ECO | 91547 | 1 | Marion, Michael | Approved | Accept
+ECO | 91547 | 1 | Bhuiyan, Shafiul | In Process | Accept
+ECO | 91547 | 1 | Bhuiyan, Shafiul |  | Implement
+ECO | 91547 | 1 | Larose, Corey |  | Implement
+ECO | 91547 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91547 | 1 | Guertin, Jessica |  | Implement
+ECO | 91547 | 1 | Welch, Robert |  | Implement
+ECO | 91547 | 1 | Welch, Robert | In Process | Accept
+ECO | 91547 | 1 | Boggs, Emily |  | Implement
+ECO | 91547 | 1 | Boggs, Emily | In Process | Accept
+ECO | 90221 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90221 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 90221 | 1 | Dalen, Katie |  | Implement
+ECO | 90221 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 90778 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 90778 | 1 | Larose, Corey |  | Implement
+ECO | 90778 | 1 | Cooney, Daniel |  | Implement
+ECO | 90778 | 1 | Klear, Brian |  | Implement
+ECO | 90778 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90778 | 1 | Guertin, Jessica |  | Implement
+ECO | 90920 | 1 | Danowski, Tom |  | Implement
+ECO | 90920 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90920 | 1 | Guertin, Jessica |  | Implement
+ECO | 90920 | 1 | Lindemann, Mary |  | Implement
+ECO | 90920 | 1 | McElroy, Joseph | In Process | Accept
+ECO | 90920 | 1 | McElroy, Joseph |  | Implement
+ECO | 90920 | 1 | Brown, Terri | Approved | Accept
+ECO | 90920 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90920 | 1 | Holly, Herman | Approved | Accept
+ECO | 90920 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90920 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 91508 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91508 | 1 | Danowski, Tom |  | Implement
+ECO | 91508 | 1 | Guertin, Jessica |  | Implement
+ECO | 91508 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91508 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91508 | 1 | Hutchons, Kennis |  | Implement
+ECO | 91508 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 91508 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91235 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91235 | 1 | Danowski, Tom |  | Implement
+ECO | 91235 | 1 | Leonard, Catherine |  | Implement
+ECO | 91235 | 1 | Leonard, Catherine | In Process | Accept
+ECO | 91235 | 1 | Holly, Yvette |  | Implement
+ECO | 91235 | 1 | McGranaghan, Jacob | In Process | Accept
+ECO | 91235 | 1 | Hartley, Brett |  | Implement
+ECO | 91235 | 1 | Dalen, Katie |  | Implement
+ECO | 91235 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91562 | 1 | Sulaiman, Raja | In Process | Accept
+ECO | 91562 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91562 | 1 | Larose, Corey |  | Implement
+ECO | 91562 | 1 | Sulaiman, Raja |  | Implement
+ECO | 91562 | 1 | Guertin, Jessica |  | Implement
+ECO | 91562 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91562 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90801 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90801 | 1 | Dalen, Katie |  | Implement
+ECO | 90801 | 1 | Danowski, Tom |  | Implement
+ECO | 90801 | 1 | Kerr, Kevin |  | Implement
+ECO | 90801 | 1 | Kerr, Kevin | In Process | Accept
+ECO | 90801 | 1 | Lindemann, Mary |  | Implement
+ECO | 90801 | 1 | Brown, Terri | In Process | Accept
+ECO | 90801 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91460 | 1 | Schmitz, Jessica |  | Implement
+ECO | 91460 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91460 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91460 | 1 | Kerr, Kevin |  | Implement
+ECO | 91460 | 1 | Guertin, Jessica |  | Implement
+ECO | 90178 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 90178 | 1 | Hartley, Brett |  | Implement
+ECO | 90178 | 1 | Schmitz, Jessica |  | Implement
+ECO | 90178 | 1 | Guertin, Jessica |  | Implement
+ECO | 90178 | 1 | Vermurlen, Alexandra | Approved | Accept
+ECO | 90178 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90178 | 1 | Sustic, Renee | Approved | Accept
+ECO | 90178 | 1 | Hutchons, Kennis |  | Implement
+ECO | 90178 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90178 | 1 | Hutchons, Kennis | In Process | Accept
+ECO | 91400 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91400 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91400 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91400 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91400 | 1 | Trestain, Barbara |  | Implement
+ECO | 91400 | 1 | Guertin, Jessica |  | Implement
+ECO | 91401 | 1 | Dalen, Katie |  | Implement
+ECO | 91401 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91401 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91401 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91401 | 1 | Trestain, Barbara |  | Implement
+ECO | 91401 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91261 | 1 | Kulkarni, Tanay | In Process | Accept
+ECO | 91261 | 1 | Larose, Corey |  | Implement
+ECO | 91261 | 1 | Kulkarni, Tanay |  | Implement
+ECO | 91261 | 1 | Guertin, Jessica |  | Implement
+ECO | 91261 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91483 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91483 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91483 | 1 | Danowski, Tom |  | Implement
+ECO | 91483 | 1 | Dalen, Katie |  | Implement
+ECO | 91483 | 1 | Lindemann, Mary |  | Implement
+ECO | 90931 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 90931 | 1 | Mullins, Alycia |  | Implement
+ECO | 90931 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90931 | 1 | Larose, Corey |  | Implement
+ECO | 91172 | 1 | Foster, Rotha | In Process | Accept
+ECO | 91172 | 1 | Andrzejewski, Stuart | In Process | Accept
+ECO | 91172 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91172 | 1 | Andrzejewski, Stuart |  | Implement
+ECO | 91172 | 1 | Dalen, Katie |  | Implement
+ECO | 91172 | 1 | Larose, Corey |  | Implement
+ECO | 90745 | 1 | Minckiewicz, David |  | Implement
+ECO | 90745 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 90745 | 1 | Kumpula, Robert |  | Implement
+ECO | 90745 | 1 | Dalen, Katie |  | Implement
+ECO | 91549 | 1 | Dalen, Katie |  | Implement
+ECO | 91549 | 1 | Danowski, Tom |  | Implement
+ECO | 91549 | 1 | McMunigal, Ryan | In Process | Accept
+ECO | 91549 | 1 | McMunigal, Ryan |  | Implement
+ECO | 91549 | 1 | Boser, David |  | Implement
+ECO | 90326 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90326 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 90326 | 1 | Dalen, Katie |  | Implement
+ECO | 90326 | 1 | Larose, Corey |  | Implement
+ECO | 83959 | 1 | Foster, Rotha | In Process | Accept
+ECO | 83959 | 1 | Foster, Rotha |  | Implement
+ECO | 83959 | 1 | Gable, Beverly |  | Implement
+ECO | 83959 | 1 | Gable, Beverly | Approved | Accept
+ECO | 83959 | 1 | Muldoon, Sean |  | Implement
+ECO | 83959 | 1 | Cooney, Daniel |  | Implement
+ECO | 89078 | 1 | Bemis, Kevin | Approved | Accept
+ECO | 89078 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 89078 | 1 | Cooney, Daniel |  | Implement
+ECO | 89078 | 1 | Manchak, Frank |  | Implement
+ECO | 89078 | 1 | Foster, Rotha | In Process | Accept
+ECO | 89078 | 1 | Foster, Rotha |  | Implement
+ECO | 89078 | 1 | Gable, Beverly |  | Implement
+ECO | 89676 | 1 | Miller, Mike | Approved | Accept
+ECO | 89676 | 1 | Miller, Mike |  | Implement
+ECO | 89676 | 1 | Muldoon, Sean |  | Implement
+ECO | 89676 | 1 | Kourtjian, Becky | Approved | Accept
+ECO | 89676 | 1 | Brown, Terri |  | Implement
+ECO | 89676 | 1 | Brown, Terri | Approved | Accept
+ECO | 89676 | 1 | Foster, Rotha |  | Implement
+ECO | 89588 | 1 | Richmond, Jason | Approved | Accept
+ECO | 89588 | 1 | Richmond, Jason |  | Implement
+ECO | 89588 | 1 | Foster, Rotha |  | Implement
+ECO | 89588 | 1 | Foster, Rotha | In Process | Accept
+ECO | 89588 | 1 | Manchak, Frank |  | Implement
+ECO | 90021 | 1 | Broman, William | In Process | Accept
+ECO | 90021 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90021 | 1 | Schmidt, Kevin | In Process | Accept
+ECO | 90041 | 1 | Brown, Terri | Approved | Accept
+ECO | 90041 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90041 | 1 | Foster, Rotha | In Process | Accept
+ECO | 90041 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90041 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 91525 | 1 | Zhou, Jie |  | Implement
+ECO | 91525 | 1 | Zhou, Jie | Approved | Accept
+ECO | 91525 | 1 | Hudson, Chris | In Process | Accept
+ECO | 91199 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91199 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91060 | 1 | Efta, Luke | In Process | Accept
+ECO | 91060 | 1 | Efta, Luke |  | Implement
+ECO | 91060 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91060 | 1 | Bollin, Amanda | In Process | Accept
+ECO | 91060 | 1 | Gable, Beverly | In Process | Accept
+ECO | 90067 | 1 | Foster, Rotha | In Process | Accept
+ECO | 90067 | 1 | Weberg, Joanna | Approved | Accept
+ECO | 90067 | 1 | Foster, Rotha |  | Implement
+ECO | 90067 | 1 | Muldoon, Sean |  | Implement
+ECO | 90067 | 1 | Weberg, Joanna |  | Implement
+ECO | 91554 | 1 | Dart, Ronald | In Process | Accept
+ECO | 91554 | 1 | Dart, Ronald |  | Implement
+ECO | 89803 | 1 | Megesi, Richard | Approved | Accept
+ECO | 89803 | 1 | Foster, Rotha |  | Implement
+ECO | 89803 | 1 | Foster, Rotha | In Process | Accept
+ECO | 89803 | 1 | Manchak, Frank |  | Implement
+ECO | 89803 | 1 | Impellizzeri, Mike | Approved | Accept
+ECO | 91505 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91505 | 1 | McElroy, Joseph |  | Implement
+ECO | 91505 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 91003 | 1 | Broman, William | Approved | Accept
+ECO | 91003 | 1 | Broman, William |  | Implement
+ECO | 91003 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91003 | 1 | Schmidt, Kevin | In Process | Accept
+ECO | 91364 | 1 | Finch, Marshall | In Process | Accept
+ECO | 91364 | 1 | Finch, Marshall |  | Implement
+ECO | 91364 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91364 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91484 | 1 | McElroy, Joseph |  | Implement
+ECO | 91484 | 1 | McElroy, Joseph | In Process | Accept
+ECO | 91484 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91211 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91211 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91211 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91223 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91223 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91419 | 1 | Zhou, Jie |  | Implement
+ECO | 91419 | 1 | Zhou, Jie | In Process | Accept
+ECO | 91352 | 1 | Zhou, Jie |  | Implement
+ECO | 91352 | 1 | Zhou, Jie | Approved | Accept
+ECO | 91352 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91352 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91230 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91230 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 90907 | 1 | Bollin, Amanda | Approved | Accept
+ECO | 90907 | 1 | Eccleston, Rolando A. |  | Implement
+ECO | 90907 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 90907 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91193 | 1 | Schmidt, Kevin | In Process | Accept
+ECO | 91193 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91193 | 1 | Broman, William | Approved | Accept
+ECO | 91193 | 1 | Broman, William |  | Implement
+ECO | 90871 | 1 | Brown, Amy | Approved | Accept
+ECO | 90871 | 1 | Potts, Nancy | In Process | Accept
+ECO | 90463 | 1 | Hawks, David | Approved | Accept
+ECO | 90463 | 1 | Gable, Beverly | In Process | Accept
+ECO | 90463 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91265 | 1 | Efta, Luke | In Process | Accept
+ECO | 91265 | 1 | Efta, Luke |  | Implement
+ECO | 91265 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91655 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91655 | 1 | McElroy, Joseph |  | Implement
+ECO | 91655 | 1 | McElroy, Joseph | In Process | Accept
+ECO | 91219 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91219 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91119 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91119 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 91119 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91119 | 1 | McElroy, Joseph |  | Implement
+ECO | 91544 | 1 | Dorais, Christopher |  | Implement
+ECO | 91544 | 1 | Dorais, Christopher | In Process | Accept
+ECO | 91544 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91544 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91632 | 1 | Minckiewicz, David | In Process | Accept
+ECO | 91632 | 1 | Minckiewicz, David |  | Implement
+ECO | 91632 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 90936 | 1 | McElroy, Joseph |  | Implement
+ECO | 90936 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 91541 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91541 | 1 | DeLand, Tara |  | Implement
+ECO | 91541 | 1 | DeLand, Tara | Approved | Accept
+ECO | 91541 | 1 | Gill, Joseph | In Process | Accept
+ECO | 91677 | 1 | Dorais, Christopher |  | Implement
+ECO | 91677 | 1 | Dorais, Christopher | In Process | Accept
+ECO | 91636 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91636 | 1 | McElroy, Joseph |  | Implement
+ECO | 91636 | 1 | McElroy, Joseph | In Process | Accept
+ECO | 91403 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91403 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91403 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91540 | 1 | Broman, William |  | Implement
+ECO | 91540 | 1 | Broman, William | Approved | Accept
+ECO | 91540 | 1 | Peters, Jessica | In Process | Accept
+ECO | 91540 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91246 | 1 | Broman, William | In Process | Accept
+ECO | 91246 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91246 | 1 | Schmidt, Kevin | In Process | Accept
+ECO | 91246 | 1 | Broman, William |  | Implement
+ECO | 90933 | 1 | Broman, William | In Process | Accept
+ECO | 90933 | 1 | Broman, William |  | Implement
+ECO | 90933 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90933 | 1 | Potts, Nancy | Approved | Accept
+ECO | 90933 | 1 | Schmidt, Kevin | In Process | Accept
+ECO | 90768 | 1 | Leonard, Catherine |  | Implement
+ECO | 90768 | 1 | Leonard, Catherine | In Process | Accept
+ECO | 90768 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91188 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91188 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91346 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91346 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 90715 | 1 | Lahoud, Sandy |  | Implement
+ECO | 90715 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 90715 | 1 | Brown, Terri | Approved | Accept
+ECO | 91208 | 1 | Pacey, Mark |  | Implement
+ECO | 91208 | 1 | Pacey, Mark | In Process | Accept
+ECO | 91208 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91208 | 1 | Hulea, Mary | Approved | Accept
+ECO | 91128 | 1 | Corum, Chad | Approved | Accept
+ECO | 91128 | 1 | Corum, Chad |  | Implement
+ECO | 91128 | 1 | Brown, Terri | Approved | Accept
+ECO | 91225 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91225 | 1 | Hawks, David | Approved | Accept
+ECO | 91397 | 1 | Broman, William | In Process | Accept
+ECO | 91397 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91397 | 1 | Broman, William |  | Implement
+ECO | 91236 | 1 | Lahoud, Sandy |  | Implement
+ECO | 91236 | 1 | Lahoud, Sandy | In Process | Accept
+ECO | 91236 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91066 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 91066 | 1 | Eccleston, Rolando A. |  | Implement
+ECO | 91066 | 1 | Potts, Nancy | In Process | Accept
+ECO | 91392 | 1 | Zhou, Jie | In Process | Accept
+ECO | 91392 | 1 | Zhou, Jie |  | Implement
+ECO | 91392 | 1 | Barsoum, Laura | In Process | Accept
+ECO | 91011 | 1 | Kulkarni, Tanay | In Process | Implement
+ECO | 91011 | 1 | Kulkarni, Tanay | Approved | Accept
+ECO | 91011 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91011 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91011 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91011 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91011 | 1 | Kumpula, Robert | Approved | Implement
+ECO | 87916 | 1 | Beck, Chuck | Approved | Implement
+ECO | 87916 | 1 | Binkley, Joshua | In Process | Implement
+ECO | 87916 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 87916 | 1 | Breen, Shannon | Approved | Implement
+ECO | 87916 | 1 | Breen, Shannon | Approved | Accept
+ECO | 87916 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 87916 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 87916 | 1 | Hoppe, Nicole | Approved | Implement
+ECO | 87916 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 87916 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 87916 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 87916 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 87916 | 1 | Sustic, Renee | Approved | Implement
+ECO | 87916 | 1 | Sustic, Renee | Approved | Accept
+ECO | 87916 | 1 | Bollin, Amanda | Approved | Implement
+ECO | 87916 | 1 | Churchman, Jeremy | Approved | Implement
+ECO | 87916 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 87916 | 1 | Sangita, Durga | Approved | Implement
+ECO | 87916 | 1 | McCumons, Jessica | Approved | Implement
+ECO | 84446 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 84446 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 84446 | 1 | Borema, Jon | Approved | Implement
+ECO | 84446 | 1 | Prestia, Courtney | In Process | Implement
+ECO | 84446 | 1 | Mahoney, David E. | Approved | Implement
+ECO | 84446 | 1 | Trestain, Barbara | Approved | Implement
+ECO | 84446 | 1 | Larose, Corey | Approved | Implement
+ECO | 84446 | 1 | Danowski, Tom | Approved | Implement
+ECO | 84446 | 1 | Hawks, David | Approved | Implement
+ECO | 84446 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 84446 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 84446 | 1 | Butler, Jennifer | Approved | Implement
+ECO | 84446 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 84446 | 1 | Edwin, David | Approved | Accept
+ECO | 84446 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 84446 | 1 | Cross, Auzree | Approved | Implement
+ECO | 87257 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 87257 | 1 | Finch, Marshall | Approved | Accept
+ECO | 87257 | 1 | Foster, Rotha | Approved | Accept
+ECO | 87257 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 87257 | 1 | Finch, Marshall | In Process | Implement
+ECO | 87257 | 1 | Foster, Rotha | Approved | Implement
+ECO | 87257 | 1 | Larose, Corey | Approved | Implement
+ECO | 87257 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89562 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89562 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89562 | 1 | Larose, Corey | Approved | Implement
+ECO | 89562 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89562 | 1 | Kies, David | Approved | Implement
+ECO | 89562 | 1 | Marion, Michael | Approved | Implement
+ECO | 89562 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89562 | 1 | Marion, Michael | Approved | Accept
+ECO | 89562 | 1 | Kies, David | Approved | Accept
+ECO | 89562 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89562 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 89562 | 1 | Eccleston, Rolando A. | In Process | Implement
+ECO | 89562 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89562 | 1 | Hulea, Mary | Approved | Implement
+ECO | 89368 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89368 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89368 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89368 | 1 | Larose, Corey | Approved | Implement
+ECO | 89368 | 1 | Lennon, Craig | In Process | Implement
+ECO | 89368 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89368 | 1 | Marion, Michael | Approved | Implement
+ECO | 89368 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89368 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89368 | 1 | Kies, David | Approved | Accept
+ECO | 89368 | 1 | Marion, Michael | Approved | Accept
+ECO | 89368 | 1 | Kies, David | Approved | Implement
+ECO | 89368 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89368 | 1 | Hulea, Mary | Approved | Implement
+ECO | 89372 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89372 | 1 | Lennon, Craig | In Process | Implement
+ECO | 89372 | 1 | Larose, Corey | Approved | Implement
+ECO | 89372 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89372 | 1 | Cross, Auzree | Approved | Implement
+ECO | 89372 | 1 | Kies, David | Approved | Accept
+ECO | 89372 | 1 | Marion, Michael | Approved | Accept
+ECO | 89372 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89372 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89372 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89372 | 1 | Kies, David | Approved | Implement
+ECO | 89372 | 1 | Marion, Michael | Approved | Implement
+ECO | 89372 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89372 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89372 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89372 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89372 | 1 | Hulea, Mary | Approved | Accept
+ECO | 89747 | 1 | Miller, Mike | Approved | Accept
+ECO | 89747 | 1 | Larose, Corey | Approved | Implement
+ECO | 89747 | 1 | Miller, Mike | In Process | Implement
+ECO | 89747 | 1 | Manchak, Frank | Approved | Implement
+ECO | 89747 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89747 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89747 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89747 | 1 | Brown, Terri | Approved | Implement
+ECO | 89747 | 1 | Brown, Terri | Approved | Accept
+ECO | 89747 | 1 | Potts, Nancy | Approved | Implement
+ECO | 89747 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89747 | 1 | Hartley, Brett | Approved | Implement
+ECO | 89470 | 1 | Sangita, Durga | Approved | Accept
+ECO | 89470 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 89470 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 89470 | 1 | Beck, Chuck | Approved | Implement
+ECO | 89470 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89470 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 89470 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 89470 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 89470 | 1 | Prestia, Courtney | In Process | Implement
+ECO | 89470 | 1 | Sangita, Durga | Approved | Implement
+ECO | 89470 | 1 | Binkley, Joshua | Approved | Implement
+ECO | 89470 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 89470 | 1 | Sustic, Renee | Approved | Implement
+ECO | 89471 | 1 | Danowski, Tom | Approved | Implement
+ECO | 89471 | 1 | Dart, Ronald | In Process | Implement
+ECO | 89471 | 1 | Dart, Ronald | Approved | Accept
+ECO | 89471 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89471 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 89471 | 1 | Rohloff, James | Approved | Implement
+ECO | 89471 | 1 | Rohloff, James | Approved | Accept
+ECO | 89474 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89474 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89474 | 1 | Seagraves, Jennifer | In Process | Implement
+ECO | 89474 | 1 | Manchak, Frank | Approved | Implement
+ECO | 89474 | 1 | Richmond, Jason | Approved | Accept
+ECO | 89474 | 1 | Richmond, Jason | In Process | Implement
+ECO | 89474 | 1 | Brown, Terri | Approved | Accept
+ECO | 89474 | 1 | Brown, Terri | Approved | Implement
+ECO | 89474 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89474 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89474 | 1 | Larose, Corey | Approved | Implement
+ECO | 89474 | 1 | Klear, Brian | Approved | Implement
+ECO | 89474 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89474 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89474 | 1 | Chinavare, Christopher | In Process | Implement
+ECO | 89474 | 1 | Yuang, Daniel | Approved | Accept
+ECO | 89474 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 89474 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89474 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 89474 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89474 | 1 | Cross, Auzree | In Process | Implement
+ECO | 89474 | 1 | Ormsby, David J. | In Process | Implement
+ECO | 89474 | 1 | Potts, Nancy | Approved | Implement
+ECO | 89474 | 1 | Hutchons, Kennis | Approved | Implement
+ECO | 89474 | 1 | Yuang, Daniel | Approved | Implement
+ECO | 89474 | 1 | Trestain, Barbara | In Process | Implement
+ECO | 88359 | 1 | Potts, Nancy | Approved | Accept
+ECO | 88359 | 1 | Foster, Rotha | Approved | Implement
+ECO | 88359 | 1 | Larose, Corey | Approved | Implement
+ECO | 88359 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 88359 | 1 | Potts, Nancy | Approved | Implement
+ECO | 88359 | 1 | Foster, Rotha | Approved | Accept
+ECO | 88359 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 88359 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 88359 | 1 | Tranter, Shawn | Approved | Accept
+ECO | 88359 | 1 | Danowski, Tom | Approved | Implement
+ECO | 88359 | 1 | Mahoney, David E. | Approved | Implement
+ECO | 88359 | 1 | Hawks, David | Approved | Implement
+ECO | 88359 | 1 | Sustic, Renee | Approved | Implement
+ECO | 88359 | 1 | Sustic, Renee | Approved | Accept
+ECO | 88359 | 1 | Doherty, James | In Process | Implement
+ECO | 88715 | 1 | Danowski, Tom | Approved | Implement
+ECO | 88715 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 88715 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 88715 | 1 | Vermurlen, Alexandra | Approved | Accept
+ECO | 88715 | 1 | Brown, Terri | Approved | Accept
+ECO | 88715 | 1 | Edwin, David | Approved | Accept
+ECO | 88715 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 88715 | 1 | Dalen, Katie | Approved | Accept
+ECO | 88715 | 1 | Dalen, Katie | In Process | Implement
+ECO | 88715 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 87501 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 87501 | 1 | Sutton, Robert | Approved | Accept
+ECO | 87501 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 87501 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 87501 | 1 | Butler, Jennifer | Approved | Implement
+ECO | 87501 | 1 | McKinney, Jennifer | Approved | Accept
+ECO | 87501 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 87501 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 87501 | 1 | Robertson, Jason | Approved | Implement
+ECO | 87501 | 1 | Binkley, Joshua | Approved | Implement
+ECO | 87501 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 87501 | 1 | Cross, Auzree | Approved | Implement
+ECO | 87501 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89597 | 1 | Danowski, Tom | Approved | Implement
+ECO | 89597 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89597 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89597 | 1 | Holly, Herman | Approved | Accept
+ECO | 89597 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89597 | 1 | Schipper, Dirk | Approved | Implement
+ECO | 89597 | 1 | Coulter, Robert | Approved | Accept
+ECO | 89597 | 1 | Coulter, Robert | In Process | Implement
+ECO | 89597 | 1 | Hutchons, Kennis | Approved | Implement
+ECO | 89597 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 89597 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 89597 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89620 | 1 | Nakamura, Yusaku | Approved | Accept
+ECO | 89620 | 1 | Danowski, Tom | Approved | Implement
+ECO | 89620 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 89620 | 1 | Cruz, Ignacio | Approved | Implement
+ECO | 89620 | 1 | Ormsby, David J. | Approved | Implement
+ECO | 89620 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 89620 | 1 | Toole, Michael | Approved | Implement
+ECO | 89620 | 1 | Holly, Herman | In Process | Implement
+ECO | 89620 | 1 | Holly, Herman | Approved | Accept
+ECO | 89620 | 1 | Wesoloski, Mary | Approved | Implement
+ECO | 89620 | 1 | Hager, Michael | Approved | Implement
+ECO | 89620 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 89620 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 89620 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89620 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89620 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89620 | 1 | Cross, Auzree | In Process | Implement
+ECO | 89620 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89620 | 1 | Lennon, Craig | In Process | Implement
+ECO | 89620 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89620 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89620 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89620 | 1 | Lahoud, Sandy | In Process | Implement
+ECO | 88476 | 1 | Iliev, Simeon | Approved | Accept
+ECO | 88476 | 1 | Iliev, Simeon | In Process | Implement
+ECO | 88476 | 1 | Danowski, Tom | Approved | Implement
+ECO | 88476 | 1 | Sustic, Renee | Approved | Implement
+ECO | 88476 | 1 | Sustic, Renee | Approved | Accept
+ECO | 88476 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 88476 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 88476 | 1 | Trestain, Barbara | Approved | Implement
+ECO | 88476 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89043 | 1 | Corum, Chad | Approved | Accept
+ECO | 89043 | 1 | Corum, Chad | In Process | Implement
+ECO | 89043 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89043 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89043 | 1 | Danowski, Tom | Approved | Implement
+ECO | 89043 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 89043 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89043 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 89043 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 87602 | 1 | Sustic, Renee | Approved | Accept
+ECO | 87602 | 1 | Sustic, Renee | Approved | Implement
+ECO | 87602 | 1 | Beck, Chuck | Approved | Implement
+ECO | 87602 | 1 | Danowski, Tom | Approved | Implement
+ECO | 87602 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 87602 | 1 | Lahoud, Sandy | In Process | Implement
+ECO | 87602 | 1 | Lahoud, Sandy | Approved | Accept
+ECO | 87602 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89430 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89430 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89430 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89430 | 1 | Eccleston, Rolando A. | In Process | Implement
+ECO | 89430 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 89430 | 1 | Larose, Corey | Approved | Implement
+ECO | 89430 | 1 | Marion, Michael | Approved | Implement
+ECO | 89430 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89430 | 1 | Kies, David | Approved | Accept
+ECO | 89430 | 1 | Marion, Michael | Approved | Accept
+ECO | 89430 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89430 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89430 | 1 | Hulea, Mary | Approved | Implement
+ECO | 89431 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89431 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89431 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89431 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 89431 | 1 | Eccleston, Rolando A. | In Process | Implement
+ECO | 89431 | 1 | Kies, David | Approved | Implement
+ECO | 89431 | 1 | Larose, Corey | Approved | Implement
+ECO | 89431 | 1 | Marion, Michael | Approved | Implement
+ECO | 89431 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89431 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89431 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89431 | 1 | Hulea, Mary | Approved | Accept
+ECO | 89432 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89432 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89432 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89432 | 1 | Eccleston, Rolando A. | In Process | Implement
+ECO | 89432 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 89432 | 1 | Larose, Corey | Approved | Implement
+ECO | 89432 | 1 | Potts, Nancy | Approved | Implement
+ECO | 89432 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89432 | 1 | Marion, Michael | Approved | Implement
+ECO | 89432 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89432 | 1 | Marion, Michael | Approved | Accept
+ECO | 89432 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89432 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89433 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89433 | 1 | Chinavare, Christopher | In Process | Implement
+ECO | 89433 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89433 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 89433 | 1 | Eccleston, Rolando A. | In Process | Implement
+ECO | 89433 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89433 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89433 | 1 | Larose, Corey | Approved | Implement
+ECO | 89433 | 1 | Marion, Michael | Approved | Implement
+ECO | 89433 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89433 | 1 | Kies, David | Approved | Implement
+ECO | 89433 | 1 | Kies, David | Approved | Accept
+ECO | 89433 | 1 | Marion, Michael | Approved | Accept
+ECO | 89433 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 89480 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89480 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89480 | 1 | Hewitt, Doug | Approved | Accept
+ECO | 89480 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89480 | 1 | Potts, Nancy | Approved | Implement
+ECO | 89480 | 1 | Hewitt, Doug | In Process | Implement
+ECO | 89480 | 1 | Larose, Corey | Approved | Implement
+ECO | 89480 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 88804 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 88804 | 1 | Danowski, Tom | Approved | Implement
+ECO | 88804 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 88804 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 88804 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 88804 | 1 | McElroy, Joseph | In Process | Implement
+ECO | 88804 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 88804 | 1 | Holly, Herman | Approved | Accept
+ECO | 88804 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 88804 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 88804 | 1 | Hulea, Mary | Approved | Accept
+ECO | 88804 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 88804 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 88804 | 1 | Edwin, David | Approved | Accept
+ECO | 88804 | 1 | Brown, Terri | Approved | Accept
+ECO | 89180 | 1 | Danowski, Tom | Approved | Accept
+ECO | 89180 | 1 | Danowski, Tom | In Process | Implement
+ECO | 89180 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89180 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89180 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89890 | 1 | Hartley, Brett | Approved | Implement
+ECO | 89890 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89890 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89890 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89890 | 1 | Larose, Corey | Approved | Implement
+ECO | 89890 | 1 | Sayer, John | Approved | Accept
+ECO | 89890 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 89890 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 89890 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89890 | 1 | Megesi, Richard | Approved | Accept
+ECO | 89890 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89890 | 1 | Brown, Terri | Approved | Accept
+ECO | 89890 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89890 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89890 | 1 | Dalen, Katie | Approved | Accept
+ECO | 88329 | 1 | Beck, Chuck | Approved | Implement
+ECO | 88329 | 1 | Binkley, Joshua | In Process | Implement
+ECO | 88329 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 88329 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 88329 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 88329 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 88329 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 88329 | 1 | Quinlan, Jamie | Approved | Implement
+ECO | 88329 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 88329 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 88329 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 88329 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 88330 | 1 | Danowski, Tom | Approved | Implement
+ECO | 88330 | 1 | Beck, Chuck | Approved | Implement
+ECO | 88330 | 1 | Binkley, Joshua | In Process | Implement
+ECO | 88330 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 88330 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 88330 | 1 | Dalen, Katie | Approved | Accept
+ECO | 88330 | 1 | Dalen, Katie | In Process | Implement
+ECO | 88330 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 88330 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 88330 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 88330 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 88330 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 88330 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 88330 | 1 | Sustic, Renee | Approved | Implement
+ECO | 88330 | 1 | Sustic, Renee | Approved | Accept
+ECO | 88330 | 1 | Breen, Shannon | Approved | Implement
+ECO | 88330 | 1 | Breen, Shannon | Approved | Accept
+ECO | 88330 | 1 | Sayer, John | Approved | Implement
+ECO | 88331 | 1 | Beck, Chuck | Approved | Implement
+ECO | 88331 | 1 | Binkley, Joshua | In Process | Implement
+ECO | 88331 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 88331 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 88331 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 88331 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 88331 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 88331 | 1 | Quinlan, Jamie | Approved | Implement
+ECO | 88331 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 88331 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 88331 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 88331 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 86882 | 1 | Larose, Corey | Approved | Accept
+ECO | 86882 | 1 | McGranaghan, Jacob | Approved | Accept
+ECO | 86882 | 1 | Potts, Nancy | Approved | Accept
+ECO | 86882 | 1 | Larose, Corey | In Process | Implement
+ECO | 86882 | 1 | Kumpula, Robert | Approved | Implement
+ECO | 86882 | 1 | McGranaghan, Jacob | In Process | Implement
+ECO | 86882 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 86882 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 86882 | 1 | Potts, Nancy | Approved | Implement
+ECO | 86882 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 88368 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 88368 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 88368 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 88368 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 88368 | 1 | Beck, Chuck | Approved | Implement
+ECO | 88368 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 88368 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 88368 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89244 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89244 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89244 | 1 | Smotherman, Jessica | Approved | Implement
+ECO | 89244 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89244 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89244 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89244 | 1 | Potts, Nancy | Approved | Implement
+ECO | 89244 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89244 | 1 | Larose, Corey | Approved | Implement
+ECO | 89244 | 1 | Lennon, Craig | In Process | Implement
+ECO | 89244 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 89244 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89244 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89244 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89244 | 1 | Trestain, Barbara | Approved | Implement
+ECO | 89244 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89244 | 1 | McCumons, Jessica | Approved | Implement
+ECO | 89224 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 89224 | 1 | Brown, Terri | Approved | Accept
+ECO | 89224 | 1 | Danowski, Tom | Approved | Implement
+ECO | 89224 | 1 | Holly, Herman | Approved | Accept
+ECO | 89224 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 89224 | 1 | McElroy, Joseph | In Process | Implement
+ECO | 89224 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 89224 | 1 | Potts, Nancy | Approved | Accept
+ECO | 89224 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89224 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89224 | 1 | Dalen, Katie | Approved | Accept
+ECO | 89224 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 89224 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 89696 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89696 | 1 | Lennon, Craig | In Process | Implement
+ECO | 89696 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89696 | 1 | Hawks, David | Approved | Implement
+ECO | 89696 | 1 | Larose, Corey | Approved | Implement
+ECO | 86574 | 1 | Lennon, Craig | Approved | Accept
+ECO | 86574 | 1 | Lennon, Craig | In Process | Implement
+ECO | 86574 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 86574 | 1 | Larose, Corey | Approved | Implement
+ECO | 86574 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 86574 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 86574 | 1 | McCumons, Jessica | Approved | Implement
+ECO | 86574 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 86574 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 86574 | 1 | Borema, Jon | Approved | Implement
+ECO | 86574 | 1 | Hawks, David | Approved | Implement
+ECO | 86574 | 1 | Brown, Terri | Approved | Accept
+ECO | 86574 | 1 | Brown, Terri | Approved | Implement
+ECO | 86574 | 1 | Bommarito, Vince | Approved | Implement
+ECO | 86575 | 1 | Kies, Samantha | Approved | Accept
+ECO | 86575 | 1 | Lennon, Craig | In Process | Implement
+ECO | 86575 | 1 | Lennon, Craig | Approved | Accept
+ECO | 86575 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 86575 | 1 | Larose, Corey | Approved | Implement
+ECO | 86575 | 1 | Chinavare, Christopher | Approved | Implement
+ECO | 86575 | 1 | Mahoney, David E. | Approved | Implement
+ECO | 86575 | 1 | Mangune, Kelly | Approved | Accept
+ECO | 86575 | 1 | McCumons, Jessica | Approved | Implement
+ECO | 86575 | 1 | Prestia, Courtney | In Process | Implement
+ECO | 86575 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 88812 | 1 | Tranter, Shawn | Approved | Accept
+ECO | 88812 | 1 | Foster, Rotha | Approved | Accept
+ECO | 88812 | 1 | Potts, Nancy | Approved | Accept
+ECO | 88812 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 88812 | 1 | Foster, Rotha | Approved | Implement
+ECO | 88812 | 1 | Potts, Nancy | Approved | Implement
+ECO | 88812 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 88812 | 1 | Schipper, Dirk | Approved | Implement
+ECO | 88812 | 1 | Hawks, David | Approved | Implement
+ECO | 88812 | 1 | Dalen, Katie | In Process | Implement
+ECO | 88812 | 1 | Mahoney, David E. | Approved | Implement
+ECO | 88812 | 1 | Larose, Corey | Approved | Implement
+ECO | 87813 | 1 | Foster, Rotha | Approved | Accept
+ECO | 87813 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 87813 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 87813 | 1 | Potts, Nancy | Approved | Accept
+ECO | 87813 | 1 | Borema, Jon | Approved | Implement
+ECO | 87813 | 1 | Hawks, David | Approved | Implement
+ECO | 87813 | 1 | Foster, Rotha | Approved | Implement
+ECO | 87813 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 87813 | 1 | Larose, Corey | Approved | Implement
+ECO | 87813 | 1 | Ormsby, David J. | Approved | Implement
+ECO | 87813 | 1 | Potts, Nancy | Approved | Implement
+ECO | 87813 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 87813 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 87813 | 1 | Tranter, Shawn | Approved | Accept
+ECO | 87813 | 1 | Schipper, Dirk | Approved | Implement
+ECO | 89738 | 1 | Lennon, Craig | Approved | Accept
+ECO | 89738 | 1 | Lennon, Craig | In Process | Implement
+ECO | 89738 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 89738 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 89738 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89738 | 1 | Foster, Rotha | In Process | Implement
+ECO | 89738 | 1 | Larose, Corey | Approved | Implement
+ECO | 86931 | 1 | Larose, Corey | Approved | Accept
+ECO | 86931 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 86931 | 1 | Foster, Rotha | Approved | Accept
+ECO | 86931 | 1 | Dalen, Katie | In Process | Implement
+ECO | 86931 | 1 | Larose, Corey | In Process | Implement
+ECO | 86931 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 86931 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 86931 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 86931 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 86931 | 1 | Foster, Rotha | Approved | Implement
+ECO | 88704 | 1 | Foster, Rotha | Approved | Accept
+ECO | 88704 | 1 | Soundararajan, Kathir | Approved | Accept
+ECO | 88704 | 1 | Peters, Jessica | Approved | Accept
+ECO | 88704 | 1 | Dalen, Katie | In Process | Implement
+ECO | 88704 | 1 | Klear, Brian | Approved | Implement
+ECO | 88704 | 1 | Larose, Corey | Approved | Implement
+ECO | 88704 | 1 | Soundararajan, Kathir | In Process | Implement
+ECO | 88704 | 1 | Peters, Jessica | In Process | Implement
+ECO | 89521 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 89521 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 89521 | 1 | Klear, Brian | Approved | Implement
+ECO | 89521 | 1 | Larose, Corey | Approved | Implement
+ECO | 89521 | 1 | Cooney, Daniel | In Process | Implement
+ECO | 89521 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89521 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 89521 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89521 | 1 | Brown, Terri | Approved | Accept
+ECO | 89521 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 89521 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 89521 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89521 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 89521 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 89686 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 89686 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 89686 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 89686 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 89686 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 89686 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 89686 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 89686 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 85939 | 1 | Volmar, Paul | Approved | Implement
+ECO | 85939 | 1 | Volmar, Paul | Approved | Accept
+ECO | 85939 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 85939 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 85939 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 85939 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 85939 | 1 | Brown, Terri | Approved | Implement
+ECO | 85939 | 1 | Brown, Terri | Approved | Accept
+ECO | 85939 | 1 | Sustic, Renee | Approved | Implement
+ECO | 85939 | 1 | Sustic, Renee | Approved | Accept
+ECO | 85939 | 1 | Lukasik, Daniel | Approved | Accept
+ECO | 85939 | 1 | Gable, Beverly | Approved | Implement
+ECO | 85939 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 85939 | 1 | Dalen, Katie | In Process | Implement
+ECO | 87920 | 1 | Brown, Terri | Approved | Accept
+ECO | 87920 | 1 | Gable, Beverly | Approved | Accept
+ECO | 87920 | 1 | Potts, Nancy | Approved | Accept
+ECO | 87920 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 87920 | 1 | Brown, Terri | Approved | Implement
+ECO | 87920 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 87920 | 1 | Gable, Beverly | Approved | Implement
+ECO | 87920 | 1 | Larose, Corey | Approved | Implement
+ECO | 87920 | 1 | Prestia, Courtney | In Process | Implement
+ECO | 87920 | 1 | Potts, Nancy | Approved | Implement
+ECO | 87920 | 1 | Manchak, Frank | Approved | Implement
+ECO | 87920 | 1 | Hulea, Mike | Approved | Implement
+ECO | 87920 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 87920 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 90016 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 90016 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90016 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90016 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 90016 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90016 | 1 | Bommarito, Jason | Approved | Accept
+ECO | 90016 | 1 | Issa, Muntha | In Process | Implement
+ECO | 90016 | 1 | Issa, Muntha | Approved | Accept
+ECO | 90016 | 1 | Lindemann, Mary | In Process | Implement
+ECO | 88672 | 1 | Beck, Chuck | Approved | Implement
+ECO | 88672 | 1 | Binkley, Joshua | Approved | Implement
+ECO | 88672 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 88672 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 88672 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 88672 | 1 | Prestia, Courtney | Approved | Accept
+ECO | 88672 | 1 | Prestia, Courtney | In Process | Implement
+ECO | 88672 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 88672 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 88672 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 88672 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 88672 | 1 | Sangita, Durga | Approved | Implement
+ECO | 88672 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 88672 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 88352 | 1 | Larose, Corey | In Process | Implement
+ECO | 88352 | 1 | Larose, Corey | Approved | Accept
+ECO | 88352 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 88352 | 1 | Klear, Brian | In Process | Implement
+ECO | 88352 | 1 | Foster, Rotha | Approved | Accept
+ECO | 88352 | 1 | Foster, Rotha | Approved | Implement
+ECO | 88352 | 1 | Muldoon, Sean | In Process | Implement
+ECO | 88352 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 88352 | 1 | Brooks, Christopher | Approved | Implement
+ECO | 88352 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 88352 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 88386 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 88386 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 88386 | 1 | Dalen, Katie | In Process | Implement
+ECO | 88386 | 1 | Beck, Chuck | Approved | Implement
+ECO | 88386 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 88386 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 88386 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 91275 | 1 | Soundararajan, Kathir | Approved | Accept
+ECO | 91275 | 1 | Soundararajan, Kathir | In Process | Implement
+ECO | 91275 | 1 | Hartley, Brett | In Process | Implement
+ECO | 91275 | 1 | Larose, Corey | Approved | Implement
+ECO | 91275 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90638 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90638 | 1 | Soundararajan, Kathir | Approved | Accept
+ECO | 90638 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90638 | 1 | Soundararajan, Kathir | In Process | Implement
+ECO | 90638 | 1 | Klear, Brian | In Process | Implement
+ECO | 90638 | 1 | Klear, Brian | Approved | Implement
+ECO | 90638 | 1 | Larose, Corey | Approved | Implement
+ECO | 90638 | 1 | Brown, Terri | Approved | Accept
+ECO | 90638 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90638 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90638 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90795 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90795 | 1 | Sayer, John | Approved | Accept
+ECO | 90795 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90795 | 1 | Sayer, John | In Process | Implement
+ECO | 90795 | 1 | Larose, Corey | Approved | Implement
+ECO | 90795 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90795 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90799 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90799 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90799 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90799 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 90799 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90799 | 1 | Rickard, Randy | In Process | Implement
+ECO | 90799 | 1 | Rickard, Randy | Approved | Accept
+ECO | 90799 | 1 | Fike, Jessica | Approved | Accept
+ECO | 91496 | 1 | Fiorello, Jacob | Approved | Accept
+ECO | 91496 | 1 | Fiorello, Jacob | In Process | Implement
+ECO | 91496 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91496 | 1 | Medema, Steven | Approved | Implement
+ECO | 91496 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91496 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91496 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91497 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91497 | 1 | Fiorello, Jacob | Approved | Accept
+ECO | 91497 | 1 | Fiorello, Jacob | In Process | Implement
+ECO | 91497 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91497 | 1 | Medema, Steven | Approved | Implement
+ECO | 91497 | 1 | Lipps, Viralyne | In Process | Implement
+ECO | 91497 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91497 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91497 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91497 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91497 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91565 | 1 | Issa, Muntha | Approved | Accept
+ECO | 91565 | 1 | Issa, Muntha | In Process | Implement
+ECO | 91565 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 91565 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 91565 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90942 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90942 | 1 | Holly, Herman | Approved | Accept
+ECO | 90942 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 90942 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90942 | 1 | Mullins, Alycia | In Process | Implement
+ECO | 90942 | 1 | Larose, Corey | Approved | Implement
+ECO | 90942 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90942 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91233 | 1 | Bhuiyan, Shafiul | Approved | Accept
+ECO | 91233 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91233 | 1 | Brown, Terri | Approved | Accept
+ECO | 91233 | 1 | Bhuiyan, Shafiul | In Process | Implement
+ECO | 91233 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91233 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 91233 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 91233 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91233 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91233 | 1 | Chinavare, Christopher | In Process | Implement
+ECO | 91233 | 1 | Trestain, Barbara | Approved | Implement
+ECO | 91233 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 91233 | 1 | Aldrink, Alyssa | Approved | Accept
+ECO | 91414 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91414 | 1 | Dahler, Becky | Approved | Implement
+ECO | 91414 | 1 | Minckiewicz, David | In Process | Implement
+ECO | 91414 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 91414 | 1 | Larose, Corey | Approved | Implement
+ECO | 91414 | 1 | Brown, Terri | Approved | Accept
+ECO | 91415 | 1 | Minckiewicz, David | In Process | Implement
+ECO | 91415 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 91415 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91415 | 1 | Larose, Corey | Approved | Implement
+ECO | 91415 | 1 | Dahler, Becky | Approved | Implement
+ECO | 91415 | 1 | Brown, Terri | Approved | Accept
+ECO | 91415 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91415 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91415 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91415 | 1 | Lipps, Viralyne | In Process | Implement
+ECO | 90999 | 1 | Larose, Corey | Approved | Implement
+ECO | 90999 | 1 | Potts, Nancy | Approved | Accept
+ECO | 90999 | 1 | Mohammad, Rania | Approved | Implement
+ECO | 90999 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 90999 | 1 | Minckiewicz, David | In Process | Implement
+ECO | 90999 | 1 | Schmidt, Kevin | Approved | Accept
+ECO | 90999 | 1 | Lipps, Viralyne | Approved | Implement
+ECO | 90999 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91252 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91252 | 1 | Harikrishnan, Prakash | In Process | Implement
+ECO | 91252 | 1 | Harikrishnan, Prakash | Approved | Accept
+ECO | 91252 | 1 | Medema, Steven | Approved | Implement
+ECO | 91253 | 1 | Harikrishnan, Prakash | Approved | Accept
+ECO | 91253 | 1 | Harikrishnan, Prakash | In Process | Implement
+ECO | 91253 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91253 | 1 | Medema, Steven | Approved | Implement
+ECO | 91253 | 1 | Hudson, Chris | Approved | Accept
+ECO | 91253 | 1 | Liao, May | Approved | Accept
+ECO | 90950 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 90950 | 1 | Fike, Jessica | Approved | Accept
+ECO | 90950 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90950 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 90950 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91121 | 1 | Brown, Terri | Approved | Accept
+ECO | 91121 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91121 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91121 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91121 | 1 | Girard, Anthony | Approved | Accept
+ECO | 91121 | 1 | Issa, Muntha | In Process | Implement
+ECO | 91121 | 1 | Issa, Muntha | Approved | Accept
+ECO | 91121 | 1 | Lindemann, Mary | In Process | Implement
+ECO | 91121 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 91121 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91121 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 91121 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91466 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91466 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91466 | 1 | McMunigal, Ryan | Approved | Accept
+ECO | 91466 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91372 | 1 | Taylor, Daryl | In Process | Implement
+ECO | 91372 | 1 | Taylor, Daryl | Approved | Accept
+ECO | 91372 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91372 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91372 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91372 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91372 | 1 | Larose, Corey | Approved | Implement
+ECO | 91372 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91372 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91372 | 1 | McElroy, Joseph | Approved | Implement
+ECO | 91557 | 1 | Prisby, Julia | Approved | Accept
+ECO | 91557 | 1 | Larose, Corey | Approved | Implement
+ECO | 91557 | 1 | Prisby, Julia | In Process | Implement
+ECO | 91557 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91210 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 91210 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91210 | 1 | Klear, Brian | Approved | Implement
+ECO | 91210 | 1 | Cooney, Daniel | In Process | Implement
+ECO | 91210 | 1 | Larose, Corey | Approved | Implement
+ECO | 91210 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91210 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90676 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90676 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90676 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90676 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90676 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90676 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90676 | 1 | Holly, Herman | Approved | Accept
+ECO | 90676 | 1 | Potts, Nancy | Approved | Accept
+ECO | 90676 | 1 | Dart, Ronald | Approved | Accept
+ECO | 90676 | 1 | Dart, Ronald | In Process | Implement
+ECO | 90676 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 90676 | 1 | Brown, Terri | Approved | Accept
+ECO | 90676 | 1 | Hartley, Brett | In Process | Implement
+ECO | 91536 | 1 | Gay, Zack | Approved | Accept
+ECO | 91536 | 1 | Larose, Corey | Approved | Implement
+ECO | 91536 | 1 | Gay, Zack | In Process | Implement
+ECO | 91536 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91082 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 91082 | 1 | Rohloff, James | Approved | Accept
+ECO | 91082 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91082 | 1 | Larose, Corey | Approved | Implement
+ECO | 91082 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91082 | 1 | Liao, May | Approved | Accept
+ECO | 90267 | 1 | Fike, Jessica | Approved | Accept
+ECO | 90267 | 1 | Pacey, Mark | Approved | Accept
+ECO | 90267 | 1 | Pacey, Mark | In Process | Implement
+ECO | 90267 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90267 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90267 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90267 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90267 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90267 | 1 | Breedlove, Frankie | Approved | Implement
+ECO | 90267 | 1 | Matovina, Rick M. | Approved | Implement
+ECO | 90267 | 1 | Brown, Terri | Approved | Accept
+ECO | 90267 | 1 | Kumpula, Robert | Approved | Implement
+ECO | 90267 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 90267 | 1 | Hutchons, Kennis | Approved | Implement
+ECO | 90990 | 1 | Potts, Nancy | Approved | Accept
+ECO | 90990 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 90990 | 1 | Andrzejewski, Stuart | In Process | Implement
+ECO | 90990 | 1 | Larose, Corey | In Process | Implement
+ECO | 90990 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90990 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90990 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91464 | 1 | Danowski, Tom | In Process | Implement
+ECO | 91464 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91464 | 1 | McMunigal, Ryan | Approved | Accept
+ECO | 91464 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90856 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 90856 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90856 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 90856 | 1 | Medema, Steven | Approved | Implement
+ECO | 90856 | 1 | Larose, Corey | Approved | Implement
+ECO | 90856 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90856 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 90856 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90856 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91486 | 1 | Leonard, Catherine | Approved | Accept
+ECO | 91486 | 1 | Leonard, Catherine | In Process | Implement
+ECO | 91486 | 1 | Reed, Travis | Approved | Implement
+ECO | 91486 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91486 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91486 | 1 | McMunigal, Ryan | Approved | Implement
+ECO | 91486 | 1 | Holly, Herman | Approved | Accept
+ECO | 91486 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90681 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90681 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90681 | 1 | Marion, Michael | Approved | Accept
+ECO | 90681 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90681 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90681 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90681 | 1 | Holly, Herman | Approved | Accept
+ECO | 90681 | 1 | Dart, Ronald | In Process | Implement
+ECO | 90681 | 1 | Welch, Robert | Approved | Accept
+ECO | 90681 | 1 | Dart, Ronald | Approved | Accept
+ECO | 90681 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 90681 | 1 | Hartley, Brett | In Process | Implement
+ECO | 90791 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90791 | 1 | Riley, Rachael | In Process | Implement
+ECO | 90791 | 1 | Brown, Terri | Approved | Accept
+ECO | 90791 | 1 | Eccleston, Rolando A. | Approved | Accept
+ECO | 90791 | 1 | Eccleston, Rolando A. | In Process | Implement
+ECO | 90791 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90791 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90791 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90791 | 1 | Potts, Nancy | Approved | Accept
+ECO | 90791 | 1 | Larose, Corey | In Process | Implement
+ECO | 90791 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 90791 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 90791 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90386 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90386 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 90386 | 1 | McElroy, Joseph | In Process | Implement
+ECO | 90386 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 90386 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90386 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90386 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91362 | 1 | Cruz, Ignacio | In Process | Implement
+ECO | 91362 | 1 | Cruz, Ignacio | Approved | Accept
+ECO | 91362 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91362 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91362 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91362 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91362 | 1 | Larose, Corey | Approved | Implement
+ECO | 91362 | 1 | Holly, Herman | Approved | Accept
+ECO | 91362 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91362 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91589 | 1 | Reed, Travis | In Process | Implement
+ECO | 91589 | 1 | Reed, Travis | Approved | Accept
+ECO | 91589 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91589 | 1 | Holly, Herman | Approved | Accept
+ECO | 91589 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91589 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91589 | 1 | Brown, Terri | Approved | Accept
+ECO | 91447 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91447 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91447 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91447 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91447 | 1 | McMunigal, Ryan | Approved | Accept
+ECO | 91469 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 91469 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91469 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91469 | 1 | Mullins, Alycia | In Process | Implement
+ECO | 91469 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91469 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91469 | 1 | Larose, Corey | Approved | Implement
+ECO | 91469 | 1 | Welch, Robert | Approved | Accept
+ECO | 91469 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91563 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91563 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91563 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91563 | 1 | McElroy, Joseph | In Process | Implement
+ECO | 91563 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91563 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91564 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91564 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91564 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91564 | 1 | Larose, Corey | Approved | Implement
+ECO | 91564 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91564 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 91564 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 90916 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90916 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 90916 | 1 | McElroy, Joseph | In Process | Implement
+ECO | 90916 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 90916 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90916 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90916 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91385 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91385 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91385 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91385 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91385 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91385 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91385 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91385 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91385 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 90698 | 1 | Brown, Terri | Approved | Accept
+ECO | 90698 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90698 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90698 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 90698 | 1 | Sayer, John | Approved | Accept
+ECO | 90698 | 1 | Rohloff, James | Approved | Accept
+ECO | 90698 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 90698 | 1 | Larose, Corey | Approved | Implement
+ECO | 90698 | 1 | Riley, Rachael | In Process | Implement
+ECO | 90698 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90698 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 91146 | 1 | Pacey, Mark | In Process | Implement
+ECO | 91146 | 1 | Pacey, Mark | Approved | Accept
+ECO | 91146 | 1 | Breedlove, Frankie | In Process | Implement
+ECO | 91146 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91146 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91146 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91146 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91146 | 1 | Hallanger, Daniel | Approved | Implement
+ECO | 91146 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 91099 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91099 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91099 | 1 | Ley, Brandon | Approved | Accept
+ECO | 91099 | 1 | Welch, Robert | Approved | Accept
+ECO | 91099 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91099 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91099 | 1 | Larose, Corey | Approved | Implement
+ECO | 91099 | 1 | Ley, Brandon | In Process | Implement
+ECO | 91099 | 1 | Mahoney, David E. | Approved | Implement
+ECO | 91099 | 1 | McMunigal, Ryan | Approved | Implement
+ECO | 91091 | 1 | Bridge, Roxanne | In Process | Implement
+ECO | 91091 | 1 | Bridge, Roxanne | Approved | Accept
+ECO | 91091 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91091 | 1 | Bommarito, Jason | Approved | Accept
+ECO | 91091 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 91091 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91091 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 91091 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91388 | 1 | Gay, Zack | Approved | Accept
+ECO | 91388 | 1 | Gay, Zack | In Process | Implement
+ECO | 91388 | 1 | Larose, Corey | Approved | Implement
+ECO | 91388 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 91388 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 91388 | 1 | Foster, Rotha | Approved | Accept
+ECO | 91388 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91388 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91389 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91389 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91389 | 1 | Marion, Michael | Approved | Accept
+ECO | 91389 | 1 | Gay, Zack | Approved | Accept
+ECO | 91389 | 1 | Gay, Zack | In Process | Implement
+ECO | 91389 | 1 | Larose, Corey | Approved | Implement
+ECO | 91389 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91389 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91389 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91389 | 1 | Hulea, Mary | Approved | Accept
+ECO | 91389 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91390 | 1 | Brown, Terri | Approved | Accept
+ECO | 91390 | 1 | Gay, Zack | Approved | Accept
+ECO | 91390 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91390 | 1 | Larose, Corey | In Process | Implement
+ECO | 91390 | 1 | Gay, Zack | In Process | Implement
+ECO | 91390 | 1 | Hutchons, Kennis | Approved | Accept
+ECO | 91390 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91390 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91390 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91390 | 1 | Hutchons, Kennis | In Process | Implement
+ECO | 91390 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90974 | 1 | Cruz, Ignacio | Approved | Accept
+ECO | 90974 | 1 | Holly, Herman | Approved | Accept
+ECO | 90974 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90974 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90974 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90974 | 1 | Cruz, Ignacio | In Process | Implement
+ECO | 90974 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91542 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91542 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 91542 | 1 | Reed, Travis | In Process | Implement
+ECO | 91542 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91542 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 91542 | 1 | Brown, Terri | Approved | Accept
+ECO | 91542 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91542 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91542 | 1 | Holly, Herman | Approved | Accept
+ECO | 91542 | 1 | Holly, Herman | In Process | Implement
+ECO | 91542 | 1 | Thomas, Mary | Approved | Implement
+ECO | 91542 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91542 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91542 | 1 | Thomas, Mary | Approved | Accept
+ECO | 91542 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91542 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91684 | 1 | Andrzejewski, Stuart | Approved | Accept
+ECO | 91684 | 1 | Andrzejewski, Stuart | In Process | Implement
+ECO | 91684 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91684 | 1 | Breedlove, Frankie | In Process | Implement
+ECO | 91684 | 1 | Larose, Corey | Approved | Implement
+ECO | 90834 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90834 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90834 | 1 | Dart, Ronald | In Process | Implement
+ECO | 90834 | 1 | Dart, Ronald | Approved | Accept
+ECO | 90834 | 1 | McMunigal, Ryan | Approved | Implement
+ECO | 90834 | 1 | Brown, Terri | Approved | Accept
+ECO | 90834 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90834 | 1 | Hulea, Mary | Approved | Accept
+ECO | 90963 | 1 | Breedlove, Frankie | Approved | Implement
+ECO | 90963 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90963 | 1 | Pacey, Mark | Approved | Accept
+ECO | 90963 | 1 | Pacey, Mark | In Process | Implement
+ECO | 90963 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90963 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90909 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 90909 | 1 | Larose, Corey | Approved | Implement
+ECO | 90909 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90909 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90909 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 90909 | 1 | McElroy, Joseph | Approved | Implement
+ECO | 90909 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 90909 | 1 | Holly, Herman | Approved | Accept
+ECO | 90909 | 1 | Fike, Jessica | Approved | Accept
+ECO | 90909 | 1 | Reed, Travis | Approved | Implement
+ECO | 90909 | 1 | Ley, Brandon | In Process | Implement
+ECO | 91092 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91092 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91092 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91092 | 1 | Larose, Corey | Approved | Implement
+ECO | 91092 | 1 | Hawks, David | Approved | Implement
+ECO | 91092 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91092 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91421 | 1 | Lennon, Craig | Approved | Accept
+ECO | 91421 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91421 | 1 | Lennon, Craig | In Process | Implement
+ECO | 91421 | 1 | Larose, Corey | Approved | Implement
+ECO | 91421 | 1 | Mahoney, David E. | Approved | Implement
+ECO | 91421 | 1 | McCreery, Lindsay | In Process | Implement
+ECO | 91421 | 1 | McCreery, Lindsay | Approved | Accept
+ECO | 91421 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91421 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91421 | 1 | Holly, Herman | Approved | Accept
+ECO | 91421 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91201 | 1 | Brown, Terri | Approved | Accept
+ECO | 91201 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91201 | 1 | Robertson, Jason | Approved | Accept
+ECO | 91201 | 1 | Larose, Corey | Approved | Implement
+ECO | 91201 | 1 | Robertson, Jason | In Process | Implement
+ECO | 91201 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91201 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91201 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 91201 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91201 | 1 | Trestain, Barbara | Approved | Accept
+ECO | 90784 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90784 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 90784 | 1 | Medema, Steven | Approved | Implement
+ECO | 90784 | 1 | Broman, William | Approved | Accept
+ECO | 90784 | 1 | Broman, William | In Process | Implement
+ECO | 90784 | 1 | Brown, Terri | Approved | Accept
+ECO | 91317 | 1 | Sayer, John | Approved | Accept
+ECO | 91317 | 1 | Larose, Corey | Approved | Implement
+ECO | 91317 | 1 | Sayer, John | In Process | Implement
+ECO | 91317 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90949 | 1 | Danowski, Tom | Approved | Implement
+ECO | 90949 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 90949 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 90949 | 1 | Breedlove, Frankie | In Process | Implement
+ECO | 90949 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 90949 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 90949 | 1 | Holly, Yvette | In Process | Implement
+ECO | 91461 | 1 | Sayer, John | Approved | Accept
+ECO | 91461 | 1 | Sayer, John | In Process | Implement
+ECO | 91461 | 1 | Larose, Corey | Approved | Implement
+ECO | 91461 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91602 | 1 | Bala, Mani | In Process | Implement
+ECO | 91602 | 1 | Bala, Mani | Approved | Accept
+ECO | 91602 | 1 | Larose, Corey | Approved | Implement
+ECO | 91602 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91602 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 91602 | 1 | Potts, Nancy | Approved | Accept
+ECO | 91342 | 1 | Holly, Herman | Approved | Accept
+ECO | 91342 | 1 | Robertson, Jason | Approved | Accept
+ECO | 91342 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91342 | 1 | Larose, Corey | Approved | Implement
+ECO | 91342 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91342 | 1 | Robertson, Jason | In Process | Implement
+ECO | 91342 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91342 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91342 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91032 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91032 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91032 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91032 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91032 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91195 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91195 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91195 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91195 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91195 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91195 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91195 | 1 | Medema, Steven | Approved | Implement
+ECO | 91096 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91096 | 1 | Hawks, David | Approved | Accept
+ECO | 91096 | 1 | Larose, Corey | Approved | Implement
+ECO | 91096 | 1 | Medema, Steven | Approved | Implement
+ECO | 91096 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91096 | 1 | Pacey, Mark | In Process | Implement
+ECO | 91249 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91249 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91249 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91249 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91249 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91249 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91249 | 1 | Lindemann, Mary | Approved | Implement
+ECO | 91249 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91249 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91249 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 91249 | 1 | Hulea, Mary | Approved | Accept
+ECO | 90192 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 90192 | 1 | Dalen, Katie | Approved | Accept
+ECO | 90192 | 1 | Dalen, Katie | In Process | Implement
+ECO | 90192 | 1 | Frampton, Lauren | In Process | Implement
+ECO | 90192 | 1 | Frampton, Lauren | Approved | Accept
+ECO | 90192 | 1 | Quinlan, Jamie | Approved | Accept
+ECO | 90192 | 1 | Quinlan, Jamie | In Process | Implement
+ECO | 90192 | 1 | Schmitz, Jessica | Approved | Implement
+ECO | 91437 | 1 | Wesoloski, Mary | Approved | Accept
+ECO | 91437 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91437 | 1 | Ormsby, David J. | Approved | Accept
+ECO | 91437 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91437 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91437 | 1 | Wesoloski, Mary | In Process | Implement
+ECO | 91437 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91382 | 1 | Harikrishnan, Prakash | In Process | Implement
+ECO | 91382 | 1 | Harikrishnan, Prakash | Approved | Accept
+ECO | 91382 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91382 | 1 | Hudson, Chris | Approved | Accept
+ECO | 91382 | 1 | Liao, May | Approved | Accept
+ECO | 91382 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91323 | 1 | Brown, Terri | Approved | Accept
+ECO | 91323 | 1 | Broman, William | Approved | Accept
+ECO | 91323 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91323 | 1 | Broman, William | In Process | Implement
+ECO | 91323 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91323 | 1 | Medema, Steven | Approved | Implement
+ECO | 91323 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91160 | 1 | Dart, Ronald | In Process | Implement
+ECO | 91160 | 1 | Dart, Ronald | Approved | Accept
+ECO | 91160 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91160 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91160 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91160 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91160 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91160 | 1 | Holly, Herman | Approved | Accept
+ECO | 90980 | 1 | Wilamowski, Kathryn | In Process | Implement
+ECO | 90980 | 1 | Wilamowski, Kathryn | Approved | Accept
+ECO | 90980 | 1 | Larose, Corey | Approved | Implement
+ECO | 90980 | 1 | Hawks, David | Approved | Implement
+ECO | 90980 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91391 | 1 | Frampton, Lauren | Approved | Accept
+ECO | 91391 | 1 | Frampton, Lauren | In Process | Implement
+ECO | 91391 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 91391 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91391 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 91391 | 1 | Bommarito, Jason | Approved | Accept
+ECO | 91391 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91391 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91449 | 1 | Larose, Corey | In Process | Implement
+ECO | 91449 | 1 | Dahler, Becky | Approved | Implement
+ECO | 91449 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91449 | 1 | Minckiewicz, David | In Process | Implement
+ECO | 91449 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 91449 | 1 | Bouldin-Tobias, Wanda | Approved | Implement
+ECO | 91449 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91449 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91449 | 1 | Chinavare, Christopher | Approved | Accept
+ECO | 91449 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91582 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91582 | 1 | Larose, Corey | Approved | Implement
+ECO | 91582 | 1 | Morrison, Kyle | In Process | Implement
+ECO | 91582 | 1 | Morrison, Kyle | Approved | Accept
+ECO | 91582 | 1 | Foster, Rotha | Approved | Accept
+ECO | 91582 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91450 | 1 | Dahler, Becky | Approved | Implement
+ECO | 91450 | 1 | Larose, Corey | Approved | Implement
+ECO | 91450 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91450 | 1 | Brown, Terri | Approved | Accept
+ECO | 91450 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 91450 | 1 | Minckiewicz, David | In Process | Implement
+ECO | 91450 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91450 | 1 | Foster, Rotha | Approved | Accept
+ECO | 91450 | 1 | Gill, Joseph | Approved | Accept
+ECO | 91543 | 1 | McCumons, Jessica | In Process | Implement
+ECO | 91543 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91543 | 1 | Reed, Travis | Approved | Implement
+ECO | 91543 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91543 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 91543 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91543 | 1 | Trestain, Barbara | Approved | Implement
+ECO | 91695 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91695 | 1 | Pacey, Mark | In Process | Implement
+ECO | 91695 | 1 | Pacey, Mark | Approved | Accept
+ECO | 91695 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91695 | 1 | Riley, Rachael | Approved | Implement
+ECO | 91695 | 1 | Lahoud, Sandy | In Process | Implement
+ECO | 91176 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91176 | 1 | Mullins, Alycia | Approved | Accept
+ECO | 91176 | 1 | Welch, Robert | Approved | Accept
+ECO | 91176 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91176 | 1 | Larose, Corey | Approved | Implement
+ECO | 91176 | 1 | Kerr, Kevin | Approved | Implement
+ECO | 91176 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91176 | 1 | McElroy, Joseph | Approved | Implement
+ECO | 91176 | 1 | Mullins, Alycia | In Process | Implement
+ECO | 91674 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 91674 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91674 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91674 | 1 | Reed, Travis | In Process | Implement
+ECO | 91674 | 1 | Medema, Steven | Approved | Implement
+ECO | 91444 | 1 | Breedlove, Frankie | Approved | Implement
+ECO | 91444 | 1 | Pacey, Mark | In Process | Implement
+ECO | 91444 | 1 | Pacey, Mark | Approved | Accept
+ECO | 91444 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91444 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91444 | 1 | McMunigal, Ryan | Approved | Implement
+ECO | 91402 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91402 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91402 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91402 | 1 | Trestain, Barbara | In Process | Implement
+ECO | 91402 | 1 | Danowski, Tom | In Process | Implement
+ECO | 91402 | 1 | Danowski, Tom | Approved | Accept
+ECO | 91654 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 91654 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91654 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91654 | 1 | Reed, Travis | In Process | Implement
+ECO | 91654 | 1 | Medema, Steven | Approved | Implement
+ECO | 91654 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91654 | 1 | Muldoon, Sean | In Process | Implement
+ECO | 91654 | 1 | Gill, Joseph | In Process | Implement
+ECO | 91588 | 1 | Sayer, John | Approved | Accept
+ECO | 91588 | 1 | Larose, Corey | Approved | Implement
+ECO | 91588 | 1 | Sayer, John | In Process | Implement
+ECO | 91588 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91560 | 1 | Marion, Michael | Approved | Accept
+ECO | 91560 | 1 | Gay, Zack | Approved | Accept
+ECO | 91560 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 91560 | 1 | Gay, Zack | In Process | Implement
+ECO | 91560 | 1 | Dalen, Katie | In Process | Implement
+ECO | 91560 | 1 | Dalen, Katie | Approved | Accept
+ECO | 91560 | 1 | Welch, Robert | Approved | Accept
+ECO | 91560 | 1 | Welch, Robert | Approved | Implement
+ECO | 91560 | 1 | Taylor, Daryl | Approved | Accept
+ECO | 91626 | 1 | Rosenthal, Murray | In Process | Implement
+ECO | 91626 | 1 | Rosenthal, Murray | Approved | Accept
+ECO | 91626 | 1 | Schmitz, Jessica | In Process | Implement
+ECO | 91626 | 1 | Binkley, Joshua | Approved | Accept
+ECO | 91626 | 1 | Danowski, Tom | Approved | Implement
+ECO | 91626 | 1 | McMunigal, Ryan | In Process | Implement
+ECO | 91626 | 1 | Guertin, Jessica | In Process | Implement
+ECO | 91626 | 1 | Guertin, Jessica | Approved | Accept
+ECO | 91626 | 1 | Lipps, Viralyne | In Process | Implement
+ECO | 91626 | 1 | Marcum, Cassel | Approved | Accept
+ECO | 91378 | 1 | Sulaiman, Raja | Approved | Accept
+ECO | 91378 | 1 | Sulaiman, Raja | In Process | Implement
+ECO | 91378 | 1 | Larose, Corey | Approved | Implement
+ECO | 91378 | 1 | Dalen, Katie | In Process | Implement
+ECO | 89380 | 1 | Nakamura, Yusaku | Approved | Accept
+ECO | 89380 | 1 | Breen, Shannon | Approved | Implement
+ECO | 89380 | 1 | Hallanger, Daniel | Approved | Accept
+ECO | 89380 | 1 | Hallanger, Daniel | In Process | Implement
+ECO | 89380 | 1 | Sustic, Renee | Approved | Accept
+ECO | 89455 | 1 | Breen, Shannon | Approved | Implement
+ECO | 89455 | 1 | Nakamura, Yusaku | Approved | Accept
+ECO | 89455 | 1 | Sustic, Renee | Approved | Accept
+ECO | 89680 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89680 | 1 | Weberg, Joanna | Approved | Accept
+ECO | 89680 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89680 | 1 | Muldoon, Sean | In Process | Implement
+ECO | 89024 | 1 | Manchak, Frank | Approved | Implement
+ECO | 89024 | 1 | Cooney, Daniel | In Process | Implement
+ECO | 89024 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 89024 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89024 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89024 | 1 | Gable, Beverly | Approved | Accept
+ECO | 89024 | 1 | Gable, Beverly | Approved | Implement
+ECO | 89024 | 1 | Bemis, Kevin | Approved | Accept
+ECO | 89502 | 1 | Muldoon, Sean | In Process | Implement
+ECO | 89502 | 1 | Foster, Rotha | Approved | Implement
+ECO | 89502 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89502 | 1 | Gable, Beverly | Approved | Implement
+ECO | 89502 | 1 | Gable, Beverly | Approved | Accept
+ECO | 89502 | 1 | Miller, Mike | In Process | Implement
+ECO | 89502 | 1 | Miller, Mike | Approved | Accept
+ECO | 89502 | 1 | Brown, Terri | Approved | Implement
+ECO | 89502 | 1 | Brown, Terri | Approved | Accept
+ECO | 89829 | 1 | Gable, Beverly | Approved | Accept
+ECO | 89829 | 1 | Gable, Beverly | Approved | Implement
+ECO | 89829 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 89829 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 89829 | 1 | Manchak, Frank | Approved | Implement
+ECO | 89829 | 1 | Foster, Rotha | In Process | Implement
+ECO | 89829 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89829 | 1 | Brown, Terri | Approved | Implement
+ECO | 88821 | 1 | Foster, Rotha | Approved | Implement
+ECO | 88821 | 1 | Foster, Rotha | Approved | Accept
+ECO | 88821 | 1 | Brown, Terri | Approved | Implement
+ECO | 88821 | 1 | Brown, Terri | Approved | Accept
+ECO | 88821 | 1 | Coon, Zac | Approved | Accept
+ECO | 88821 | 1 | Coon, Zac | Approved | Implement
+ECO | 88821 | 1 | Potts, Nancy | In Process | Implement
+ECO | 88821 | 1 | Potts, Nancy | Approved | Accept
+ECO | 88821 | 1 | Gable, Beverly | Approved | Implement
+ECO | 88821 | 1 | Gable, Beverly | Approved | Accept
+ECO | 89442 | 1 | Breen, Shannon | Approved | Implement
+ECO | 89442 | 1 | Nakamura, Yusaku | Approved | Accept
+ECO | 89442 | 1 | Sustic, Renee | Approved | Accept
+ECO | 89692 | 1 | Coon, Zac | Approved | Accept
+ECO | 89692 | 1 | Foster, Rotha | Approved | Accept
+ECO | 89692 | 1 | Foster, Rotha | Approved | Implement
+ECO | 91605 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 91605 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91205 | 1 | Lahoud, Sandy | In Process | Implement
+ECO | 91205 | 1 | Brown, Terri | Approved | Accept
+ECO | 91205 | 1 | Gable, Beverly | Approved | Accept
+ECO | 91178 | 1 | Lahoud, Sandy | Approved | Accept
+ECO | 91178 | 1 | Lahoud, Sandy | In Process | Implement
+ECO | 91700 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91700 | 1 | McElroy, Joseph | In Process | Implement
+ECO | 91700 | 1 | McElroy, Joseph | Approved | Accept
+ECO | 91209 | 1 | Lahoud, Sandy | In Process | Implement
+ECO | 91209 | 1 | Lahoud, Sandy | Approved | Accept
+ECO | 91287 | 1 | Bemis, Kevin | Approved | Accept
+ECO | 91287 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 91287 | 1 | Cooney, Daniel | In Process | Implement
+ECO | 91420 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91420 | 1 | Brown, Terri | Approved | Accept
+ECO | 91420 | 1 | Dart, Ronald | In Process | Implement
+ECO | 91420 | 1 | Dart, Ronald | Approved | Accept
+ECO | 91420 | 1 | Gable, Beverly | Approved | Accept
+ECO | 90246 | 1 | MacKay, Shawn | Approved | Implement
+ECO | 90246 | 1 | MacKay, Shawn | Approved | Accept
+ECO | 90246 | 1 | Rohloff, James | Approved | Accept
+ECO | 90246 | 1 | Bemis, Kevin | Approved | Accept
+ECO | 91299 | 1 | Minckiewicz, David | Approved | Accept
+ECO | 91299 | 1 | Minckiewicz, David | In Process | Implement
+ECO | 91299 | 1 | Hulea, Mary | Approved | Accept
+ECO | 91288 | 1 | Bemis, Kevin | Approved | Accept
+ECO | 91288 | 1 | Cooney, Daniel | In Process | Implement
+ECO | 91288 | 1 | Cooney, Daniel | Approved | Accept
+ECO | 91288 | 1 | Barsoum, Laura | Approved | Accept
+ECO | 91699 | 1 | Hudson, Chris | Approved | Accept
+ECO | 91699 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91699 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 91720 | 1 | Dorais, Christopher | In Process | Implement
+ECO | 91720 | 1 | Dorais, Christopher | Approved | Accept
+ECO | 90836 | 1 | Foster, Rotha | Approved | Accept
+ECO | 90836 | 1 | Kumpula, Robert | Approved | Accept
+ECO | 90836 | 1 | Kumpula, Robert | In Process | Implement
+ECO | 90836 | 1 | Foster, Rotha | Approved | Implement
